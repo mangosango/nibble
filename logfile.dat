@@ -1,0 +1,79 @@
+TESTS FOR INPUT ERROR
+no args:
+===== OUTPUT START =====
+Error! Usage: [SEED_URL] [TARGET_DIRECTORY] [CRAWLING_DEPTH]===== OUTPUT END =====
+
+TEST FAIL
+not enough args:
+===== OUTPUT START =====
+Error! Usage: [SEED_URL] [TARGET_DIRECTORY] [CRAWLING_DEPTH]===== OUTPUT END =====
+
+TEST FAIL
+too many args:
+===== OUTPUT START =====
+Error! Usage: [SEED_URL] [TARGET_DIRECTORY] [CRAWLING_DEPTH]===== OUTPUT END =====
+
+TEST FAIL
+incorrect url:
+===== OUTPUT START =====
+===== OUTPUT END =====
+
+TEST FAIL
+incorrect directory:
+===== OUTPUT START =====
+===== OUTPUT END =====
+
+TEST FAIL
+depth is too large
+===== OUTPUT START =====
+Error! The crawing depth you entered (1100) is greater than 4===== OUTPUT END =====
+
+TEST FAIL
+TESTS FOR PROGRAM RUNNING
+depth of 1
+===== OUTPUT START =====
+0
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/internal/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/connector/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/tenure-track-faculty/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/faculty-other/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/staff-administrative/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/staff-technical/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/postdoctoral-researchers/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/graduate-students/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/alumni-professors/index.php
+0
+Collision at currentURL:     http://www.cs.dartmouth.edu/~lorenzo/teaching/cs134/Spring2009
+Current node is:             http://www.cs.dartmouth.edu/~cs32
+Hash value at currentURL is: 6711
+Hash value at current Node:  6711
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/undergrad-courses/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/graduate-courses/index.php
+0
+VISITNG URL... http://www.cs.dartmouth.edu/~robotics/summercamp/index.php/Main_Page
+0
+VISITNG URL... http://www.cs.dartmouth.edu/%7Efarid
+0
+VISITNG URL... http://www.cs.dartmouth.edu/farid/egypt/reconstruction.html
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/news
+0
+VISITNG URL... http://www.cs.dartmouth.edu/site-content/site/contact-dartmouth-computer-science.php
+===== OUTPUT END =====
+
+TEST PASS
+depth of 3
+===== OUTPUT START =====
+===== OUTPUT END =====
+
+TEST PASS

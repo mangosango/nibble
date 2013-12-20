@@ -1,0 +1,33 @@
+
+This directory contains the following files.
+
+crawler.c - this is an NULL file. But it shows how you would include the *.h files and *IMPORTANTLY* it includes the pseudo code from the Design Spec to code against. Please make sure you keep the pseudo code in the main 
+crawl file for readability.
+
+crawler.h - this includes a number of important parts:
+
+- DEFINES
+- MACROS
+- DATA STRUCTURES
+- PROTOTYPES
+
+Please read
+
+Parser (GetNextURL) is in:
+
+html.h
+html.c
+
+Hash function
+
+hash.h
+hash.c
+
+General header file with useful macros
+
+header.h
+
+Good luck!
+
+
+

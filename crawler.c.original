@@ -1,0 +1,435 @@
+/*
+
+  FILE: crawler.c
+
+  Description:
+
+  Inputs: ./crawler [SEED URL] [TARGET DIRECTORY WHERE TO PUT THE DATA] [MAX CRAWLING DEPTH]
+
+  Outputs: For each webpage crawled the crawler program will create a file in the 
+  [TARGET DIRECTORY]. The name of the file will start a 1 for the  [SEED URL] 
+  and be incremented for each subsequent HTML webpage crawled. 
+
+  Each file (e.g., 10) will include the URL associated with the saved webpage and the
+  depth of search in the file. The URL will be on the first line of the file 
+  and the depth on the second line. The HTML will for the webpage 
+  will start on the third line.
+
+*/
+
+#include <stdio.h>
+#include "crawler.h"
+#include "html.h"
+#include "hash.h"
+#include "header.h"
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <unistd.h>
+
+// Define the dict structure that holds the hash table 
+// and the double linked list of DNODES. Each DNODE holds
+// a pointer to a URLNODE. This list is used to store
+// unique URLs. The search time for this list is O(n).
+// To speed that up to O(1) we use the hash table. The
+// hash table holds pointers into the list where 
+// DNODES with the same key are maintained, assuming
+// the hash(key) is not NULL (which implies the URL has
+// not been seen before). The hash table provide quick
+// access to the point in the list that is relevant
+// to the current URL search. 
+
+DICTIONARY* dict = NULL; 
+
+
+// This is the table that keeps pointers to a list of URL extracted
+// from the current HTML page. NULL pointer represents the end of the
+// list of URLs.
+
+char *url_list[MAX_URL_PER_PAGE]; 
+
+void checkArgs() {
+	// check the number of args
+	if (argc != 4) { printf("Error! Usage: [SEED_URL] [TARGET_DIRECTORY] [CRAWLING_DEPTH]"); }
+	
+	// check each argument
+	if (isDirectory(argv[2]) != 0) { printf("Error! %s is invalid", argv[2]); }
+	if (argv[3] > 4) { printf("Error! The crawing depth you entered (%d) is greater than 4", argv[3]); }
+}
+
+int isDirectory(char *path) {
+	struct stat *buffer;
+	if ((stat(path, buffer) && S_ISDIR(buffer)) == 0)
+		return 0;
+	else
+		return 1;
+}
+
+/*
+
+
+(5) *Crawler*
+-------------
+
+// Input command processing logic
+
+(1) Command line processing on arguments
+    Inform the user if arguments are not present
+    IF target_directory does not exist OR depth exceeds max_depth THEN
+       Inform user of usage and exit failed
+
+// Initialization of any data structures
+
+(2) *initLists* Initialize any data structure and variables
+
+*/
+
+void initLists() {
+	// malloc and initialize dictionary
+	DICTIONARY* dict = (DICTIONARY*)malloc(sizeof(DICTIONARY));
+	MALLOC_CHECK(dict);
+	BZERO(dict, sizeof(DICTIONARY));
+	dict->start = d->end = NULL;	
+}
+
+
+/*
+
+// Bootstrap part of Crawler for first time through with SEED_URL
+
+(3) page = *getPage(seedURL, current_depth, target_directory)* Get HTML page
+    IF page == NULL THEN
+       *log(PANIC: Cannot crawl SEED_URL)* Inform user
+       exit failed
+
+*/
+
+char *getpage(char* url, int depth, char* path) {
+	static int i;
+
+	//char* fullPath; 	// full path to current directory
+	//char* urlDepthCom; 	// string that holds the command to store the url and depth in the file.
+	char* wgetCom;		// string that holds the wget command
+	//char* buffer;		// html string
+	
+	char* tempfile = "tempfile";
+
+	wgetCom = (char *)malloc(1000);
+	MALLOC_CHECK(wgetCom);
+	BZERO(wgetCom, sizeof(wgetCom));
+	
+	
+	getcwd(fullPath, 0);//store the current working dir in fullPath (automatic malloc). 
+	//strncat(fullPath, path);// concat the temp path to fullPath
+
+	// print html to temp file.
+	sprintf(wgetCom, "wget -q0 - %s >> %s", url,tempfile); // write wget to temp file.
+	system(wgetCom);
+
+	// get html string from file and store in buffer
+		FILE *fp;
+		int size;
+		if((fp=fopen(tempfile, "rb")) == NULL)
+			perror("File open");
+		else {
+			fseek(fp, 0, SEEK_END);
+			size = ftell(fp);
+			fseek(fp, 0, SEEK_SET);
+			rewind(fp);
+		}
+	
+	// malloc buffer/temp
+		char *buffer;
+		buffer = (char *)malloc(sizeof(char) * size + 1);
+		MALLOC_CHECK(buffer);
+		BZERO(buffer, sizeof(buffer));
+	
+		char *temp;
+                temp = (char *)malloc(sizeof(char) * size);
+                MALLOC_CHECK(temp);
+                BZERO(temp, sizeof(temp));
+
+	// read in html from file
+		while((fgets (temp, sizeof(myst) ,fp)) != NULL) {
+			strncat(buffer, fgets(temp, sizeof(temp), fp), sizeof(buffer));
+			BZERO(temp, sizeof(temp)); // clear temp string data just in case.
+		}
+		
+		free(temp); // since we are done with the temp string, free up the memory =)
+		fclose(fp);
+
+	// write the depth/url and html to "path/i"
+		FILE *writeFile;
+		
+		// filename to use for saving
+		char fileNumber[10];
+		char *fullpath;
+		fullpath = (char *)malloc(sizeof(path) + 10);
+		MALLOC_CHECK(fullpath);
+		BZERO(fullpath, sizeof(fullpath));
+
+		sprintf(fileNumber, "/%d", i);
+		strncat(fullpath, fileNumber, sizeof(fullpath));
+
+		// write to "path/i"
+		if((writeFile=fopen(fullpath, "w")) == NULL) perror("File open");
+		else {
+			fprintf(writeFile, "%s\n%d\n%s", url,depth,buffer);
+		}
+
+	// add \0 to end of string
+		strncat(buffer, "\0", sizeof(buffer));
+
+	// increment temp file number
+	i++;
+
+	// return the buffer
+	return buffer;
+}
+
+/*
+
+(4) *extractURLs(page, SEED_URL)* Extract all URLs from SEED_URL page and update
+    the URLsList accordingly.
+
+*/
+
+char **extractURLs(char* html_buffer, char* current) {
+	
+	// initialize url_list to NULL
+	int i;
+	for(i = 0; i <= MAX_URL_PER_PAGE; i++) {
+		url_list[i] = NULL;
+	}
+
+	// get the urls
+	int pos = 0;
+	char result[MAX_URL_LENGTH];
+	BZERO(result, sizeof(result));
+	while ((pos = GetNextURL(html_buffer, current, result, pos)) > 0) {
+		if (strncmp(URL_PREFIX, pos, strlen(URL_PREFIX)) == 0) { // if URL has the correct prefix...
+			// malloc the url index
+			url_list[i] = malloc(MAX_URL_LENGTH);
+			MALLOC_CHECK(url_list[i]);
+			BZERO(url_list[i], MAX_URL_LENGTH);
+
+			// copy the parsed url to the url_list
+			strncpy(url_list[i], result, MAX_URL_LENGTH);
+		}
+		BZERO(result, sizeof(result));
+	}
+}
+
+/*
+  
+(5) *free(page)* Done with the page so release it
+
+*/
+
+/*
+
+(6) *updateListLinkToBeVisited(URLsLists, current_depth + 1)*  For all the URL 
+    in the URLsList that do not already exist already on the NODE list then 
+    add a URLNODE (URL name, depth, visited) to the NODE list (start, end). 
+
+*/
+
+URLNODE makeURLNODE(int depth, char* buffer) {
+	// malloc space for the URLNODE
+        URLNODE* n = malloc(sizeof(URLNODE));
+	MALLOC_CHECK(n);
+
+	// set the depth and visited status of the node
+        n->depth = depth;
+        n->visited = 0;
+
+	// BZERO the node url
+        BZERO(n->url, MAX_URL_LENGTH);
+
+	// copy the buffer (url) into the node.
+        strncpy(n->url, buffer, MAX_URL_LENGTH);
+
+	// return the URLNODE
+	return n;
+}
+
+void addDNODE(int depth, char* url) {
+
+	if((dict->start) == NULL) { // if there are no dnodes in the list of dnodes
+		// malloc the start and end nodes
+		dict->start = dict->end = malloc(sizeof(DNODE));
+		MALLOC_CHECK(dict->start);
+		dict->start->prev = dict->start->next = NULL;
+
+		// set the dnode as the starting dnode (since the list of dnodes is empty).
+		dict->hash[h] = dict->start;
+		dict->start->data = makeURLNODE(depth, url); // set the data to the URL node returned
+		BZERO(dict->start->key, KEY_LENGTH);
+		strncpy(dict->start->key, url, KEY_LENGTH);
+	} else {
+		// malloc the node
+		dict->hash[h] = malloc(sizeof(DNODE));
+		MALLOC_CHECK(dict->hash[h]);
+
+		// place the dnode at the end of the list of dnodes
+		//dict->hash[h] = dict->end;
+		dict->hash[h]->prev = dict->end;
+		dict->hash[h]->next = NULL;
+		dict->end->next = dict->hash[h];
+		dict->end = dict->hash[h]; // make the current node the last node (end).
+
+		dict->hash[h]->data = makeURLNODE(depth, url); // set the data to the URL node returned by makeURLNODE
+		BZERO(dict->hash[h]->key, KEY_LENGTH);
+		strncpy(dict->hash[h]->key, url, KEY_LENGTH);
+	}
+}
+
+void addClusterDNODE(int depth, char* url, DNODE currentNode, int h) {
+	while(hash1(currentNode->next->key) == h) { // go to the last dnode in the cluster
+		currentNode = currentNode->next;
+	}
+
+	// define new dnode to be initialized
+	DNODE dnodeToAdd;
+
+	// malloc the node (???)
+	dnodeToAdd = malloc(sizeof(DNODE));
+	MALLOC_CHECK(dnodeToAdd);
+
+	// place the dnode at the end of the cluster
+	dnodeToAdd->prev = currentNode;
+	dnodeToAdd->next = currentNode->next;
+	currentNode->next->prev = dnodeToAdd;
+	currentNode->next = dnodeToAdd;
+
+	dnodeToAdd = makeURLNODE(depth, url);
+	BZERO(dnodeToAdd->key, KEY_LENGTH);
+	strncpy(dnodeToAdd->key, url, KEY_LENGTH);
+}
+
+
+int uniqueURL(DNODE currentNode, char* url, int h) {
+	while(hash1(currentNode->key) == h) {
+		if((currentNode->key) == url) return 1;		// if the key in the current node is the url, then return 1
+		currentNode = currentNode->next;		// go to the next dnode
+	}
+	return 0; // if we got to the end of the cluster without finding a match, return 0
+}
+
+void updateListLinkToBeVisited(char **url_list, int depth) {
+	
+	int i;
+	int h;	// store the hash
+
+	// for every url in the list
+	for(i = 0; i < MAX_URL_PER_PAGE; i++) {
+		h = hash1(url_list[i]);	// get hash index of for the url
+
+		if ((dict->hash[h]) == NULL) { // if the hash is empty...
+			addDNODE(depth, url_list[i]);	// then simply add a dnode!
+		} else if (uniqueURL(dict->hash[h], url_list[i], h) == 0) // otherwise, if the URL is unique
+			addClusterDNODE(depth, url_list[i], dict->hash[h], h);  // then add the dnode at the end of the cluster (grr...).
+		}
+	}
+}
+
+
+/*
+
+(7) *setURLasVisited(SEED_URL)* Mark the current URL visited in the URLNODE.
+
+*/
+
+void setURLasVisited(char* url) {
+	
+	int h;
+	DNODE currentDNODE = dict->hash[h];
+	h = hash1(url);
+
+	while((currentDNODE->key) != url) {	// cycle through cluster until we get to the correct dnode
+		currentDNODE = dict->hash[h]->next;
+	}
+
+	currentDNODE->data->visited = 1; // set the current url as visited
+}
+
+/*
+// Main processing loop of crawler. While there are URL to visit and the depth is not 
+// exceeded keep processing the URLs.
+
+(8) URLToBeVisited = *getAddressFromTheLinksToBeVisited(current_depth)* Get the next 
+    URL to be visited from the NODE list (first one not visited from start)
+*/
+
+char *getAddressFromTheLinksToBeVisited(int *depth) {
+	DNODE currentDNODE = dict->start;
+
+	while((currentDNODE->data->visited) == 1) {	// iterate through the dnodes until we get to one that isn't visited
+		currentDNODE = currentDNODE->next;
+	}
+
+	return currentDNODE->key;
+}
+
+
+void cleanup() {
+	
+}
+
+/*
+(9) WHILE (URLToBeVisited) DO
+       IF current_depth > max_depth THEN
+    
+          // For URLs that are over max_depth, we just set them to visited
+          // and continue on
+    
+          setURLasVisited(URLToBeVisited) Mark the current URL visited in the URLNODE.
+          continue;
+
+    page = *getPage(URLToBeVisited, current_depth, target_directory)* Get HTML page
+
+    IF page == NULL THEN
+       *log(PANIC: Cannot crawl URLToBeVisited)* Inform user
+       exit failed
+  
+    *extractURLs(page, SEED_URL)* Extract all URLs from SEED_URL page and update
+    the URLsList accordingly.
+  
+    *free(page)* Done with the page so release it
+
+    *updateListLinkToBeVisited(URLsLists, current_depth + 1)* For all the URL 
+    in the URLsList that do not exist already then add a URLNODE (URL name, depth, 
+    visited) to the NODE list (start, end). 
+ 
+    *setURLasVisited(URLToBeVisited)* Mark the current URL visited in the URLNODE.
+
+    // You must include a sleep delay before crawling the next page 
+    // See note below for reason.
+
+    *sleep(INTERVAL_PER_FETCH)* Sneak by the server by sleeping. Use the 
+     standard Linux system call
+
+    update URLToBeVisited = *getAddressFromTheLinksToBeVisited(current_depth)* Get the next 
+    URL to be visited from the NODE list (first one not visited from start)
+
+(10) *log(Nothing more to crawl, good job, we are done)* Inform user
+
+(11) *cleanup* Clean up data structures and make sure all files are closed,
+      resources deallocated.
+
+*/
+
+
+int main() {
+
+  printf("Get cooking cs23!\n");
+
+  printf("Translate the pseudo code. Data structures are in crawler.h\n");
+
+  printf("Don't forget to read the README in this directory\n\n");
+
+  printf("What do you call a fish with no eye? Fsh ;-)\n\n");
+
+  printf("Good luck\n");
+
+  return 0;
+}
