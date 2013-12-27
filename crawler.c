@@ -84,23 +84,23 @@ void initLists() {
 char *getPage(char* url, int depth, char* path) {
 	static int i;		// static int that counts the current file number to be saved by wget
 
-	char* wgetCom;		// string that holds the wget command
+	char* PTR_PTR_wgetCom;		// string that holds the wget command
 
-	wgetCom = (char *)malloc(SIZE_OF_WGET_COM);
-	MALLOC_CHECK(wgetCom);
-	BZERO(wgetCom, SIZE_OF_WGET_COM);
+	PTR_wgetCom = (char *)malloc(SIZE_OF_WGET_COM);
+	MALLOC_CHECK(PTR_wgetCom);
+	BZERO(PTR_wgetCom, SIZE_OF_WGET_COM);
 	
 	getcwd(path, 0);//store the current working dir in fullPath (automatic malloc).
 
 	// print html to temp file.
-	sprintf(wgetCom, "wget -qO - \"%s\" > %s", url,TEMP_FILE_NAME); // write wget to temp file.
+	sprintf(PTR_wgetCom, "wget -qO - \"%s\" > %s", url,TEMP_FILE_NAME); // write wget to temp file.
 	int j = 0;		
-	if(system(wgetCom) != 0) { // if we can't get the URL...
-		while ((j < 3) && (system(wgetCom) != 0)) { system(wgetCom); j++; } // ... try up to 3 times to get the page...
-		if((system(wgetCom) != 0)) return NULL; //... and if it still fails, then return null
+	if(system(PTR_wgetCom) != 0) { // if we can't get the URL...
+		while ((j < 3) && (system(PTR_wgetCom) != 0)) { system(PTR_wgetCom); j++; } // ... try up to 3 times to get the page...
+		if((system(PTR_wgetCom) != 0)) return NULL; //... and if it still fails, then return null
 	}
 
-	free(wgetCom); // free up the malloc'd space.
+	free(PTR_wgetCom); // free up the malloc'd space.
 
 	// get html string from file and store in buffer
 		FILE *fp;
