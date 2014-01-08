@@ -68,9 +68,7 @@ int isDirectory(char *path) {
 
 void initLists() {
 	// malloc and initialize dictionary
-	dict = (DICTIONARY*)malloc(sizeof(DICTIONARY));
-	MALLOC_CHECK(dict);
-	BZERO(dict, sizeof(DICTIONARY));
+	dict = (DICTIONARY*)calloc(sizeof(DICTIONARY));
 	dict->start = dict->end = NULL;	
 }
 
@@ -86,9 +84,7 @@ char *getPage(char* url, int depth, char* path) {
 
 	char* PTR_PTR_wgetCom;		// string that holds the wget command
 
-	PTR_wgetCom = (char *)malloc(SIZE_OF_WGET_COM);
-	MALLOC_CHECK(PTR_wgetCom);
-	BZERO(PTR_wgetCom, SIZE_OF_WGET_COM);
+	PTR_wgetCom = (char *)calloc(SIZE_OF_WGET_COM);
 	
 	getcwd(path, 0);//store the current working dir in fullPath (automatic malloc).
 
