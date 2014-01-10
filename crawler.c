@@ -434,11 +434,7 @@ int main(int argc, char *argv[]) {
 	sscanf(argv[3], "%d", &crawlDepth);
 	
 	// MALLOC AND BZERO THE URL TO BE VISITED
-	char *URLToBeVisited = malloc(MAX_URL_LENGTH);	// the url to visit
-	MALLOC_CHECK(URLToBeVisited);
-	BZERO(URLToBeVisited, MAX_URL_LENGTH);
-
-	printf("Hello!");
+	char *URLToBeVisited = calloc(MAX_URL_LENGTH);	// the url to visit
 
 	URLToBeVisited = argv[1];
 	
