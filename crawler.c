@@ -243,8 +243,7 @@ void addDNODE(int depth, char* url, int h) {
 
 	if((dict->start) == NULL) { // if there are no dnodes in the list of dnodes
 		// malloc the start and end nodes
-		dict->start = dict->end = malloc(sizeof(DNODE));
-		MALLOC_CHECK(dict->start);
+		dict->start = dict->end = calloc(sizeof(DNODE));
 		dict->start->prev = dict->start->next = NULL;
 
 		// set the dnode as the starting dnode (since the list of dnodes is empty).
