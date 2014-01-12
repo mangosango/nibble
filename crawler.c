@@ -68,9 +68,7 @@ int isDirectory(char *path) {
 
 void initLists() {
 	// malloc and initialize dictionary
-	dict = (DICTIONARY*)malloc(sizeof(DICTIONARY));
-	MALLOC_CHECK(dict);
-	BZERO(dict, sizeof(DICTIONARY));
+	dict = (DICTIONARY*)calloc(sizeof(DICTIONARY));
 	dict->start = dict->end = NULL;	
 }
 
@@ -83,12 +81,9 @@ void initLists() {
 
 char *getPage(char* url, int depth, char* path) {
 	static int i;		// static int that counts the current file number to be saved by wget
-
-	char* wgetCom;		// string that holds the wget command
-
-	wgetCom = (char *)malloc(SIZE_OF_WGET_COM);
-	MALLOC_CHECK(wgetCom);
-	BZERO(wgetCom, SIZE_OF_WGET_COM);
+	
+	var char* PTR_wgetCom;
+	PTR_wgetCom = (char *)calloc(SIZE_OF_WGET_COM);
 	
 	getcwd(path, 0);//store the current working dir in fullPath (automatic malloc).
 
@@ -116,9 +111,7 @@ char *getPage(char* url, int depth, char* path) {
 	
 	// malloc buffer/temp
 		char *buffer;
-		buffer = (char *)malloc(sizeof(char) * size + 1);
-		MALLOC_CHECK(buffer);
-		BZERO(buffer, sizeof(buffer));
+		buffer = (char *)calloc(sizeof(char) * size + 1);
 
 	// read in html from file
 		fread(buffer, 1, size, fp);
@@ -134,17 +127,13 @@ char *getPage(char* url, int depth, char* path) {
 		// string that holds the url, depth, and buffer to write to the file in ./data
 		char *writeToFile;
 		// malloc the size of the buffer, url, and depth plus 2 for the line breaks
-		writeToFile = (char *)malloc(strlen(buffer) + strlen(url) + sizeof(depth) + 2);
-		MALLOC_CHECK(writeToFile);
-		BZERO(writeToFile, sizeof(writeToFile));
+		writeToFile = (char *)calloc(strlen(buffer) + strlen(url) + sizeof(depth) + 2);
 
 		sprintf(writeToFile, "%s\n%d\n%s",url,depth,buffer);
 		
 		// create variable to hold the full path (to the file to be written)
 		char *fullPath;
-                fullPath = (char *)malloc(strlen(path));
-                MALLOC_CHECK(fullPath);
-                BZERO(fullPath, strlen(path));
+                fullPath = (char *)calloc(strlen(path));
 
 		// copy the directory data from path into fullPath...
 		strncpy(fullPath, path, strlen(path));
@@ -192,27 +181,21 @@ char **extractURLs(char* html_buffer, char* current) {
 	i = 0; // reset i back to 0
 
 	// copy the current url as the first item in the url_list
-        url_list[i] = malloc(MAX_URL_LENGTH);
-        MALLOC_CHECK(url_list[i]);
-        BZERO(url_list[i], MAX_URL_LENGTH);
+        url_list[i] = calloc(MAX_URL_LENGTH);
 	strncpy(url_list[i], current, MAX_URL_LENGTH);
 	i++;
 
 	// get the urls
 	int pos = 0;
 	char *result;
-	result = (char *)malloc(MAX_URL_LENGTH);
-	MALLOC_CHECK(result);
-	BZERO(result, MAX_URL_LENGTH);
+	result = (char *)calloc(MAX_URL_LENGTH);
 
 	// get all of the links in the document (ignore things like pdf files, images, etc)
 	while ((pos = GetNextURL(html_buffer, current, result, pos)) > 0) {
 		if ((strncmp(URL_PREFIX, result, strlen(URL_PREFIX)) == 0)) { 
 			if(NormalizeURL(result) == 1) { // if URL has the correct prefix and is a pure text file...
 				// malloc the url index
-				url_list[i] = malloc(MAX_URL_LENGTH);
-				MALLOC_CHECK(url_list[i]);
-				BZERO(url_list[i], MAX_URL_LENGTH);
+				url_list[i] = calloc(MAX_URL_LENGTH);
 
 				// copy the parsed url to the url_list
 				strncpy(url_list[i], result, MAX_URL_LENGTH);
@@ -239,8 +222,7 @@ char **extractURLs(char* html_buffer, char* current) {
 
 URLNODE *makeURLNODE(int depth, char* buffer) {
 	// malloc space for the URLNODE
-        URLNODE* n = malloc(sizeof(URLNODE));
-	MALLOC_CHECK(n);
+        URLNODE* n = calloc(sizeof(URLNODE));
 
 	// set the depth and visited status of the node
         n->depth = depth;
@@ -260,8 +242,7 @@ void addDNODE(int depth, char* url, int h) {
 
 	if((dict->start) == NULL) { // if there are no dnodes in the list of dnodes
 		// malloc the start and end nodes
-		dict->start = dict->end = malloc(sizeof(DNODE));
-		MALLOC_CHECK(dict->start);
+		dict->start = dict->end = calloc(sizeof(DNODE));
 		dict->start->prev = dict->start->next = NULL;
 
 		// set the dnode as the starting dnode (since the list of dnodes is empty).
@@ -451,11 +432,7 @@ int main(int argc, char *argv[]) {
 	sscanf(argv[3], "%d", &crawlDepth);
 	
 	// MALLOC AND BZERO THE URL TO BE VISITED
-	char *URLToBeVisited = malloc(MAX_URL_LENGTH);	// the url to visit
-	MALLOC_CHECK(URLToBeVisited);
-	BZERO(URLToBeVisited, MAX_URL_LENGTH);
-
-	printf("Hello!");
+	char *URLToBeVisited = calloc(MAX_URL_LENGTH);	// the url to visit
 
 	URLToBeVisited = argv[1];
 	
