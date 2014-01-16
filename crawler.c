@@ -143,7 +143,11 @@ char *getPage(char* url, int depth, char* path) {
 		strncat(fullPath, fileNumber, sizeof(path) + sizeof(fileNumber));
 
 		// write the content of writetoFile  to "path/i"
-		if((writeFile=fopen(fullPath, "w")) == NULL) perror("File open");
+		writeFile=fopen(fullPath, "w");
+		
+		if( writeFile == NULL ) {
+			perror("File open");
+		}
 		else {
 			fwrite(writeToFile, 1, strlen(writeToFile), writeFile);
 		}
