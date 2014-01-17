@@ -68,7 +68,7 @@ int isDirectory(char *path) {
 
 void initLists() {
 	// malloc and initialize dictionary
-	dict = (DICTIONARY*)calloc(sizeof(DICTIONARY));
+	dict = (DICTIONARY*)calloc(1, sizeof(DICTIONARY));
 	dict->start = dict->end = NULL;	
 }
 
@@ -82,24 +82,23 @@ void initLists() {
 char *getPage(char* url, int depth, char* path) {
 	static int i;		// static int that counts the current file number to be saved by wget
 	
-	var char* PTR_wgetCom;
-	PTR_wgetCom = (char *)calloc(SIZE_OF_WGET_COM);
+	char* PTR_wgetCom = (char *)calloc(1, SIZE_OF_WGET_COM);
 	
 	getcwd(path, 0);//store the current working dir in fullPath (automatic malloc).
 
 	// print html to temp file.
-	sprintf(wgetCom, "wget -qO - \"%s\" > %s", url,TEMP_FILE_NAME); // write wget to temp file.
+	sprintf(PTR_wgetCom, "wget -qO - \"%s\" > %s", url,TEMP_FILE_NAME); // write wget to temp file.
 	int j = 0;		
-	if(system(wgetCom) != 0) { // if we can't get the URL...
-		while ((j < 3) && (system(wgetCom) != 0)) { system(wgetCom); j++; } // ... try up to 3 times to get the page...
-		if((system(wgetCom) != 0)) return NULL; //... and if it still fails, then return null
+	if(system(PTR_wgetCom) != 0) { // if we can't get the URL...
+		while ((j < 3) && (system(PTR_wgetCom) != 0)) { system(PTR_wgetCom); j++; } // ... try up to 3 times to get the page...
+		if((system(PTR_wgetCom) != 0)) return NULL; //... and if it still fails, then return null
 	}
 
-	free(wgetCom); // free up the malloc'd space.
+	free(PTR_wgetCom); // free up the malloc'd space.
 
 	// get html string from file and store in buffer
 		FILE *fp;
-		int size;
+		int size = 0;
 		if((fp=fopen(TEMP_FILE_NAME, "rb")) == NULL)
 			perror("File open");
 		else {
@@ -111,7 +110,7 @@ char *getPage(char* url, int depth, char* path) {
 	
 	// malloc buffer/temp
 		char *buffer;
-		buffer = (char *)calloc(sizeof(char) * size + 1);
+		buffer = (char *)calloc(1, sizeof(char) * size + 1);
 
 	// read in html from file
 		fread(buffer, 1, size, fp);
@@ -127,13 +126,13 @@ char *getPage(char* url, int depth, char* path) {
 		// string that holds the url, depth, and buffer to write to the file in ./data
 		char *writeToFile;
 		// malloc the size of the buffer, url, and depth plus 2 for the line breaks
-		writeToFile = (char *)calloc(strlen(buffer) + strlen(url) + sizeof(depth) + 2);
+		writeToFile = (char *)calloc(1, strlen(buffer) + strlen(url) + sizeof(depth) + 2);
 
 		sprintf(writeToFile, "%s\n%d\n%s",url,depth,buffer);
 		
 		// create variable to hold the full path (to the file to be written)
 		char *fullPath;
-                fullPath = (char *)calloc(strlen(path));
+                fullPath = (char *)calloc(1, strlen(path));
 
 		// copy the directory data from path into fullPath...
 		strncpy(fullPath, path, strlen(path));
@@ -185,21 +184,21 @@ char **extractURLs(char* html_buffer, char* current) {
 	i = 0; // reset i back to 0
 
 	// copy the current url as the first item in the url_list
-        url_list[i] = calloc(MAX_URL_LENGTH);
+        url_list[i] = calloc(1, MAX_URL_LENGTH);
 	strncpy(url_list[i], current, MAX_URL_LENGTH);
 	i++;
 
 	// get the urls
 	int pos = 0;
 	char *result;
-	result = (char *)calloc(MAX_URL_LENGTH);
+	result = (char *)calloc(1, MAX_URL_LENGTH);
 
 	// get all of the links in the document (ignore things like pdf files, images, etc)
 	while ((pos = GetNextURL(html_buffer, current, result, pos)) > 0) {
 		if ((strncmp(URL_PREFIX, result, strlen(URL_PREFIX)) == 0)) { 
 			if(NormalizeURL(result) == 1) { // if URL has the correct prefix and is a pure text file...
 				// malloc the url index
-				url_list[i] = calloc(MAX_URL_LENGTH);
+				url_list[i] = calloc(1, MAX_URL_LENGTH);
 
 				// copy the parsed url to the url_list
 				strncpy(url_list[i], result, MAX_URL_LENGTH);
@@ -226,7 +225,7 @@ char **extractURLs(char* html_buffer, char* current) {
 
 URLNODE *makeURLNODE(int depth, char* buffer) {
 	// malloc space for the URLNODE
-        URLNODE* n = calloc(sizeof(URLNODE));
+        URLNODE* n = calloc(1, sizeof(URLNODE));
 
 	// set the depth and visited status of the node
         n->depth = depth;
@@ -246,7 +245,7 @@ void addDNODE(int depth, char* url, int h) {
 
 	if((dict->start) == NULL) { // if there are no dnodes in the list of dnodes
 		// malloc the start and end nodes
-		dict->start = dict->end = calloc(sizeof(DNODE));
+		dict->start = dict->end = calloc(1, sizeof(DNODE));
 		dict->start->prev = dict->start->next = NULL;
 
 		// set the dnode as the starting dnode (since the list of dnodes is empty).
@@ -256,8 +255,7 @@ void addDNODE(int depth, char* url, int h) {
 		strncpy(dict->start->key, url, KEY_LENGTH);
 	} else {
 		// malloc the node
-		dict->hash[h] = malloc(sizeof(DNODE));
-		MALLOC_CHECK(dict->hash[h]);
+		dict->hash[h] = calloc(1, sizeof(DNODE));
 
 		// place the dnode at the end of the list of dnodes
 		//dict->hash[h] = dict->end;
@@ -436,7 +434,7 @@ int main(int argc, char *argv[]) {
 	sscanf(argv[3], "%d", &crawlDepth);
 	
 	// MALLOC AND BZERO THE URL TO BE VISITED
-	char *URLToBeVisited = calloc(MAX_URL_LENGTH);	// the url to visit
+	char *URLToBeVisited = calloc(1, MAX_URL_LENGTH);	// the url to visit
 
 	URLToBeVisited = argv[1];
 	
