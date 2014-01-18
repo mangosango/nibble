@@ -41,7 +41,7 @@
 
 // Unlikely to have more than an 1000 URLs in page
  
-#define MAX_URL_PER_PAGE 10000
+#define MAX_URL_PER_PAGE 1000
 
 // Wget command is unlikely to be twice the size of the url length
 

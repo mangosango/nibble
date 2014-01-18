@@ -184,8 +184,9 @@ char **extractURLs(char* html_buffer, char* current) {
 	i = 0; // reset i back to 0
 
 	// copy the current url as the first item in the url_list
-        url_list[i] = calloc(1, MAX_URL_LENGTH);
+    url_list[i] = calloc(1, MAX_URL_LENGTH);
 	strncpy(url_list[i], current, MAX_URL_LENGTH);
+
 	i++;
 
 	// get the urls
@@ -195,7 +196,11 @@ char **extractURLs(char* html_buffer, char* current) {
 
 	// get all of the links in the document (ignore things like pdf files, images, etc)
 	while ((pos = GetNextURL(html_buffer, current, result, pos)) > 0) {
-		if ((strncmp(URL_PREFIX, result, strlen(URL_PREFIX)) == 0)) { 
+
+		// is the URL in the domain we specified?
+		int is_in_domain = strncmp(URL_PREFIX, result, strlen(URL_PREFIX));
+
+		if ( is_in_domain == 0) { 
 			if(NormalizeURL(result) == 1) { // if URL has the correct prefix and is a pure text file...
 				// malloc the url index
 				url_list[i] = calloc(1, MAX_URL_LENGTH);
@@ -440,18 +445,18 @@ int main(int argc, char *argv[]) {
 	
 	/* CHECK ARGUMENTS! */
 	// check the number of args
-	if (argc != 4) { printf("Error! Usage: [SEED_URL] [TARGET_DIRECTORY] [CRAWLING_DEPTH]"); return 1; }
+	if (argc != 4) { printf("Error! Usage: [SEED_URL] [TARGET_DIRECTORY] [CRAWLING_DEPTH]\n"); return 1; }
 	
 	// check each argument
-	if (isDirectory(argv[2]) != 0) { printf("Error! %s is an invalid directory", argv[2]); return 1; }
-	if (crawlDepth > MAXDEPTH) { printf("Error! The crawing depth you entered (%d) is greater than 4", crawlDepth); return 1; }
+	if (isDirectory(argv[2]) != 0) { printf("Error! %s is an invalid directory\n", argv[2]); return 1; }
+	if (crawlDepth > MAXDEPTH) { printf("Error! The crawing depth you entered (%d) is greater than 4\n", crawlDepth); return 1; }
 
 	/* INITIALIZE THE DICTIONARY (dict) */
 	initLists();
 	
 	/* GET HTML PAGE, SAVE TO TEMP FILE */ 
 	char* page = getPage(URLToBeVisited, 0, argv[2]);
-	if(page == NULL) { perror("Can't crawl source URL"); }
+	if(page == NULL) { perror("Can't crawl source URL\n"); }
 	
 	/* EXTRACT URLS + UPDATE THE DNODES (ADD URLS) */
 	updateListLinkToBeVisited((extractURLs(page, argv[1])), currentDepth + 1);
