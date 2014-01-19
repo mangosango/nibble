@@ -1,3 +1,5 @@
+http://www.cs.dartmouth.edu/graduate/life
+2
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -6,15 +8,15 @@
 <!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/526" />
+<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/158" />
 <link rel="shortcut icon" href="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="canonical" href="http://web.cs.dartmouth.edu/research/projects/visual-learning" />
+<link rel="canonical" href="http://web.cs.dartmouth.edu/graduate/life" />
 <meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<meta content="Visual Learning" about="/research/projects/visual-learning" property="dc:title" />
-<meta about="/research/projects/visual-learning" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<meta content="Graduate Life" about="/graduate/life" property="dc:title" />
+<meta about="/graduate/life" property="sioc:num_replies" content="0" datatype="xsd:integer" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no">  
-  <title>Visual Learning | Department of Computer Science</title>
+  <title>Graduate Life | Department of Computer Science</title>
   <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_mxbvRAV0_YoXwGCXbsQzCkegc1pXHICzfd8PPQD9YE4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_eNCzbFC38J4lNPTkie9TueRTpfkpBmXxfgOsIjZjPMk.css" media="all" />
@@ -34,7 +36,7 @@
   <script src="/sites/all/themes/dartmouth_master/js/vendor/respond.min.js"></script>
 	
 </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-526 node-type-page" >
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-158 node-type-page" >
 
 <!--[if lt IE 8]>
 <p class="chromeframe">You are viewing this site in <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-9">compatibility view</a>, or an Internet Explorer version lower than 8. Please either upgrade your browser, or take your browser out of compatibility view to better experience this site.</p>
@@ -306,14 +308,16 @@
 			  			  				<div class="nine push-three column">
 			  	
 				  				  
-        			        			<h1 class="title" id="page-title">Visual Learning</h1>        			        			
+        			        			<h1 class="title" id="page-title">Graduate Life</h1>        			        			
 					<div class="tabs"></div>       	 			        			        													
-        			    <div id="node-526" class="node node-page clearfix row dept-landing-container" about="/research/projects/visual-learning" typeof="foaf:Document">
+        			    <div id="node-158" class="node node-page clearfix row dept-landing-container" about="/graduate/life" typeof="foaf:Document">
 
   
   
   <div class="content">
-            
+            <section class="intro">
+      <div class="field field-name-field-intro field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Dartmouth is situated in Hanover, on the Connecticut River, in the Upper Valley region of New Hampshire. It is a beautiful, historic campus, located in a scenic, year-round, outdoor recreational area. Dartmouth hosts an annual film festival; renowned musical and theatrical performers; and convenient public transportation to Boston, New York, and Montreal, as well as local airports.</p></div></div></div>    </section>
+        
     <div class="field-collection-container clearfix">
 
 
@@ -323,18 +327,57 @@
 <div class="field field-name-field-section field-type-field-collection field-label-hidden">
     <div class="field-items">
                     
-              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/641" typeof="">
+                        <div class="row">
+          <div class="six column">
+                <article class="dept-landing-module field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/301" typeof="">
   <div class="content">
     
-	<h3 class="field-item even">Prof. Lorenzo Torresani</h3>
-<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><img height="205" width="205" alt="Visual Learning Logo" title="Visual Learning Logo" class="media-element file-default" typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/shapeimage_1.png" /></p>
-<p>The Visual Learning Group researches methods to acquire models of the real-world from visual data, such as images, videos, and motion sequences. Most of this research lies at the boundary between computer vision, machine learning and computer animation. Projects include learning image representations for visual recognition - the problem of determining what is where in a picture - but also extracting models of human movement from video and motion capture data.</p>
-<p><a href="http://vlg.cs.dartmouth.edu/">Read more...</a></p>
-<p> </p>
+	<h3 class="field-item even">The Location </h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><a href="http://www.hanovernh.org">Hanover</a> lies along the eastern bank of the Connecticut River, between the Green Mountains of <a href="http://www.vtliving.com">Vermont</a> and the <a href="http://hikethewhites.com/">White Mountains</a> of <a href="http://www.visitnh.gov">New Hampshire</a>. Hanover is a small town (about 9, 200 residents) whose major employers are Dartmouth College and the Dartmouth-Hitchcock Medical Center.  The downtown area, consisting of about four square blocks of shops, is right next to the College.  Hanover has tried hard to preserve the traditional New England small-town qualities; there are no big shopping malls or fast food restaurants.  The same holds for Norwich, Vermont, just across the river. </p>
+<p>The neighboring towns of Lebanon and West Lebanon in New Hampshire, and White River Junction in Vermont, are slightly larger and offer more in the way of consumerism.  All the other towns in the area are quite small, and the local general store still thrives.  The area is served by one local newspaper, several radio stations, and a television station.  Boston TV is available on cable in most towns, along with the usual array of movie and sports channels.</p>
+<p>Amid such rural beauty, it is not surprising that mountain climbing, cross-country skiing, canoeing, and hiking are popular activities.  The Dartmouth Outing Club maintains hiking and ski trails all over New Hampshire, and the Appalachian Trail actually goes right through downtown Hanover.  The Outing Club leads hikes, bike rides, canoe trips, and ski trips all year round.</p>
  </div></div></div>  </div>
 </div>
-</div><span class="marker"></span></section>
-            </div>
+</div><span class="marker"></span></article>
+                        
+                              
+                      <article class="dept-landing-module field-item odd"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/306" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">Housing</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>College housing for married graduate students is available at <b>Sachem Village</b>, a complex of 132 one, two, and three-bedroom apartments about a mile and a half from campus.  These apartments are unfurnished except for an electric stove and refrigerator.  Couples interested in living at Sachem Village should write to the  <a href="http://www.dartmouthre.com/">Office of Rental Housing</a>, <u>14 South Main Street, Suite 2D, Hanover, NH  03755</u>.  When requesting housing at Sachem Village it is best to write as soon as possible, since requests are honored in order of their date of filing. </p>
+<p>Many single students find private accommodations in the Hanover area.  The Office of Rental Housing (see address above) maintains a file of rooms, apartments, and houses for rent, both in Hanover and in nearby towns.  If you own a car, you may want to live outside of Hanover where the rents are lower.</p>
+ </div></div></div>  </div>
+</div>
+</div><span class="marker"></span></article>
+                  </div>
+          <div class="six column">
+                        
+                              
+                      <article class="dept-landing-module field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/311" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">Health Care </h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>Each full-time student is entitled to health care services at Dick's House, on Rope Ferry Road (an extension of North Main Street). Coverage for the fall term starts September 1, and for other terms, on the day before registration; coverage lasts until registration day for the following term, or until your enrollment is terminated by withdrawal, suspension, or separation. All students must either purchase the Dartmouth Student Group Insurance Plan (DS-GHIP), or certify through a waiver application that they are already covered by comparable insurance. The DS-GHIP must be purchased for a full twelve-month year with two exceptions: (1) those students whose waiver ceases to be valid must purchase the group insurance at that time; (2) all students with accepted waivers that enroll in the Dartmouth Foreign Study Program are required to purchase the DS-GHIP for the terms they are engaged in these programs. In both cases the charges are prorated.</p>
+ </div></div></div>  </div>
+</div>
+</div><span class="marker"></span></article>
+                        
+                              
+                      <article class="dept-landing-module field-item odd"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/316" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">Activities</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>Dartmouth offers a modest but active cultural life.  The <a href="http://www.dartmouth.edu/%7Ehop/">Hopkins Center</a> at Dartmouth is a magnet for the arts in New Hampshire and Vermont; it sponsors concerts by visiting and local musicians, film series, art shows, and theater.  The Hop also has workshops for woodworking, sculpture, painting and crafts.  The Hood Museum features a good art collection, and the building itself has aroused interest in the architectural community.  The local populace includes a high percentage of enthusiastic musicians, thespians, terpsichores, and crafts people; it's easy to find a string quartet or a contradance.</p>
+<p>The College provides the usual assortment of <a href="http://www.dartmouth.edu/%7Eathfac">gyms</a>, basketball courts, tennis courts, squash courts, weight rooms, aerobics classes, swimming pools, and baseball diamonds, as well as a hockey rink, an indoor track, and a golf course.  Dartmouth students are traditionally active athletes, and there are plenty of opportunities for spectators and participants.</p>
+<p>If you want to travel, there are two major highways within five miles of campus, I-89 and I-91.  The former will get you to Boston in about two and a half hours or Montreal in three and a half, and the latter leads to New York City in five hours.  Vermont Transit provides bus service to all three cities, with stops in Hanover or White River Junction.  Amtrak stops in White River on its way to New York, Philadelphia, and Washington.  The Lebanon airport is served by U.S. Air Express with direct flights to Boston, New York, and Philadelphia.</p>
+ </div></div></div>  </div>
+</div>
+</div><span class="marker"></span></article>
+                          </div>
+          </div>
+                
+                    </div>
 </div>
 </div>                
   </div>
@@ -351,29 +394,38 @@
 				  <div class="three pull-nine column sidebar">
 				    <section class="nav-side">
 				        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
-  <ul class="menu"><li class="first leaf menu-mlid-866"><a href="/recent-publications" title="">Faculty Publications</a></li>
-<li class="leaf menu-mlid-906"><a href="/research/faculty-research-areas" title="Faculty research areas">Faculty Research Areas</a></li>
-<li class="leaf menu-mlid-821"><a href="/research/labs" title="Research labs">Labs</a></li>
-<li class="expanded active-trail menu-mlid-822"><a href="/research/projects" title="Research projects" class="active-trail">Projects</a><ul class="menu"><li class="first leaf menu-mlid-1016"><a href="/research/projects/amulet-computational-jewelry-mhealth">Amulet: Computational Jewelry</a></li>
-<li class="leaf menu-mlid-986"><a href="/research/projects/approximate-nearest-neighbour-searching">Approximate Nearest Neighbour Searching</a></li>
-<li class="leaf menu-mlid-1041"><a href="/research/projects/digital-image-forensics">Digital Image Forensics</a></li>
-<li class="leaf menu-mlid-991"><a href="/research/projects/fg">FG</a></li>
-<li class="leaf menu-mlid-976"><a href="/research/projects/family-based-protein-design">Family-Based Protein Design</a></li>
-<li class="leaf menu-mlid-1001"><a href="/research/projects/green-lite-dartmouth">Green Lite Dartmouth</a></li>
-<li class="leaf menu-mlid-1011"><a href="/research/projects/mcmc-and-theory-computing">MCMC and the Theory of Computing</a></li>
-<li class="leaf menu-mlid-1021"><a href="/research/projects/multimodal-protein-structure">Multimodal Protein Structure</a></li>
-<li class="leaf menu-mlid-1036"><a href="/research/projects/price-and-allocation-algorithms-markets-and-networks">Price and Allocation Algorithms</a></li>
-<li class="leaf menu-mlid-1046"><a href="/research/projects/reconstructing-ancient-egyptian-tombs">Reconstructing Ancient Egyptian Tombs</a></li>
-<li class="leaf menu-mlid-1026"><a href="/research/projects/robotic-origami-folding">Robotic Origami Folding</a></li>
-<li class="leaf menu-mlid-981"><a href="/research/projects/smartphone-sensing">Smartphone Sensing</a></li>
-<li class="leaf menu-mlid-1051"><a href="/research/projects/towards-effective-pki">Towards Effective PKI</a></li>
-<li class="leaf menu-mlid-1031"><a href="/research/projects/exact-optimal-trajectories-robots">Trajectories for Robots</a></li>
-<li class="leaf menu-mlid-1006"><a href="/research/projects/trusted-hardware">Trusted Hardware</a></li>
-<li class="leaf menu-mlid-996"><a href="/research/projects/trustworthy-health-and-wellness">Trustworthy Health and Wellness</a></li>
-<li class="last leaf active-trail active menu-mlid-971"><a href="/research/projects/visual-learning" class="active-trail active">Visual Learning</a></li>
-</ul></li>
-<li class="last leaf menu-mlid-1061"><a href="http://www.cs.dartmouth.edu/~csrs/" title="Computer Science Research Symposium">Annual Research Symposium</a></li>
+  <ul class="menu"><li class="first collapsed menu-mlid-823"><a href="/graduate/programs" title="Graduate programs">Programs</a></li>
+<li class="leaf menu-mlid-824"><a href="/graduate/courses" title="Graduate courses">Courses</a></li>
+<li class="leaf active-trail active menu-mlid-826"><a href="/graduate/life" title="Graduate student life" class="active-trail active">Graduate Life</a></li>
+<li class="collapsed menu-mlid-827"><a href="/graduate/current-students" title="Information for current students">Current Students</a></li>
+<li class="last leaf menu-mlid-841"><a href="/people/alumni-professors" title="Program graduates who now have teaching positions">Alumni Professors</a></li>
 </ul></div>
+        
+  
+  
+          <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+  
+    
+    
+    
+  
+<section class="widget promo">
+  <a href="http://sites.dartmouth.edu/gsc/">
+    <div class="photo">
+      <div><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/sidebar_promo/public/248_bakerview.jpg?itok=BuOYwAI2" width="248" height="139" /></div>	 </div>
+	 <article>
+	   <small><div class="field-content">Connections</div></small>
+		 <h5><div class="field-content">Graduate Student Council</div><span class="arrow"></span></h5>
+	 </article>
+  </a>
+</section>  </div>
+  
+  
+  
+  
+  
+  
 					</section>
 				  </div>
 								
@@ -516,7 +568,7 @@ _gaq.push(['t2._trackPageview']);(function() {var ga = document.createElement("s
 <script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/scripts.js?mzmp4d"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"MAl58iCzRbFnvBw45Vyl1upd5i7DeD7Tb7myxJsvNHA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"uTDSs94dmRRUVP1rRHIuBCij5Vj6y_WElXBQA_DGqcM","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
 //--><!]]>
 </script>
 </body>

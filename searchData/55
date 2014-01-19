@@ -1,3 +1,5 @@
+http://www.cs.dartmouth.edu/graduate/students/expectations
+2
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -6,15 +8,15 @@
 <!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/526" />
+<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/301" />
 <link rel="shortcut icon" href="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="canonical" href="http://web.cs.dartmouth.edu/research/projects/visual-learning" />
+<link rel="canonical" href="http://web.cs.dartmouth.edu/graduate/students/expectations" />
 <meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<meta content="Visual Learning" about="/research/projects/visual-learning" property="dc:title" />
-<meta about="/research/projects/visual-learning" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<meta content="Expectations, Policies, and Procedures" about="/graduate/students/expectations" property="dc:title" />
+<meta about="/graduate/students/expectations" property="sioc:num_replies" content="0" datatype="xsd:integer" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no">  
-  <title>Visual Learning | Department of Computer Science</title>
+  <title>Expectations, Policies, and Procedures | Department of Computer Science</title>
   <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_mxbvRAV0_YoXwGCXbsQzCkegc1pXHICzfd8PPQD9YE4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_eNCzbFC38J4lNPTkie9TueRTpfkpBmXxfgOsIjZjPMk.css" media="all" />
@@ -34,7 +36,7 @@
   <script src="/sites/all/themes/dartmouth_master/js/vendor/respond.min.js"></script>
 	
 </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-526 node-type-page" >
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-301 node-type-page" >
 
 <!--[if lt IE 8]>
 <p class="chromeframe">You are viewing this site in <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-9">compatibility view</a>, or an Internet Explorer version lower than 8. Please either upgrade your browser, or take your browser out of compatibility view to better experience this site.</p>
@@ -306,14 +308,16 @@
 			  			  				<div class="nine push-three column">
 			  	
 				  				  
-        			        			<h1 class="title" id="page-title">Visual Learning</h1>        			        			
+        			        			<h1 class="title" id="page-title">Expectations, Policies, and Procedures</h1>        			        			
 					<div class="tabs"></div>       	 			        			        													
-        			    <div id="node-526" class="node node-page clearfix row dept-landing-container" about="/research/projects/visual-learning" typeof="foaf:Document">
+        			    <div id="node-301" class="node node-page clearfix row dept-landing-container" about="/graduate/students/expectations" typeof="foaf:Document">
 
   
   
   <div class="content">
-            
+            <section class="intro">
+      <div class="field field-name-field-intro field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>This page is intended to help current graduate students better understand the expectations of the faculty, and to locate the policies and procedures they need to get through the M.S. and/or Ph.D programs here in Computer Science at Dartmouth.</p></div></div></div>    </section>
+        
     <div class="field-collection-container clearfix">
 
 
@@ -323,15 +327,80 @@
 <div class="field field-name-field-section field-type-field-collection field-label-hidden">
     <div class="field-items">
                     
-              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/641" typeof="">
+              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/321" typeof="">
   <div class="content">
     
-	<h3 class="field-item even">Prof. Lorenzo Torresani</h3>
-<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><img height="205" width="205" alt="Visual Learning Logo" title="Visual Learning Logo" class="media-element file-default" typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/shapeimage_1.png" /></p>
-<p>The Visual Learning Group researches methods to acquire models of the real-world from visual data, such as images, videos, and motion sequences. Most of this research lies at the boundary between computer vision, machine learning and computer animation. Projects include learning image representations for visual recognition - the problem of determining what is where in a picture - but also extracting models of human movement from video and motion capture data.</p>
-<p><a href="http://vlg.cs.dartmouth.edu/">Read more...</a></p>
-<p> </p>
+	<h3 class="field-item even">Expectations of the Faculty</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><a name="expectations" id="expectations"></a></p>
+<p>M.S. graduate students are expected to</p>
+<ul><li>Adhere to the Honor Principle and the Student Code of Conduct as described in the <a href="http://graduate.dartmouth.edu/studentlife/handbook20102.pdf">Dartmouth Graduate Student Handbook</a>.</li>
+<li>Follow the policies and procedures below.</li>
+<li>Make good progress toward completion of the degree requirements.</li>
+</ul><p>Ph.D graduate students are expected to</p>
+<ul><li>Adhere to the Honor Principle and the Student Code of Conduct as described in the <a href="http://graduate.dartmouth.edu/studentlife/handbook20102.pdf">Dartmouth Graduate Student Handbook</a>.</li>
+<li>Make good progress toward completion of the degree requirements. A typical full-time Ph.D student is expected to complete the degree in five years.</li>
+<li>Register for COSC 210 in each term and attend departmental colloquia.  Also attend thesis proposals and defenses.</li>
+<li>Perform any T.A. duties thoroughly and responsibly, in consultation with the course professor. A T.A. is expected to put in approximately 20 hours per week on those duties.</li>
+<li>Actively participate in the annual Computer Science Research Symposium (CSRS) by either giving a talk or presenting a poster.</li>
+<li>Contribute positively to the department, e.g., organize CSRS, help with Ph.D. recruiting, and organize social activities.</li>
+</ul><p>The department reviews the progress of all Ph.D. students annually, based on a report provided by them and augmented by their advisor. The department provides feedback to every student. Students making inadequate progress are warned by the department and will be re-evaluated six months later. Students continuing to make inadequate progress will be dismissed from the program. You can see the <a href="/sites/cs.drupal-prod.dartmouth.edu/files/evaluationOfPhDStudents.pdf">Progress Evaluation Document (pdf)</a> that details how the faculty evaluate Ph.D. student progress.</p>
  </div></div></div>  </div>
+</div>
+</div><span class="marker"></span></section>
+                      
+              <section class="dept-section field-item odd"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/326" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">Resources (Policies and Procedures)</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><a name="resources" id="resources"></a></p>
+<p>Dartmouth's policies are listed in the ORC (Organizations, Regulations and Courses) and in the <a href="http://graduate.dartmouth.edu/studentlife/handbook20102.pdf">Dartmouth Graduate Student Handbook</a>.  Below we add to and clarify the policies and procedures. Wherever those, or other, college publications are in conflict with any of the items below, the official publication should be considered correct.</p>
+<p>Questions, comments, and suggestions are welcome! Please send them either to the current advisor to Ph.D students or the current advisor to M.S. students.</p>
+ </div></div></div>  </div>
+</div>
+</div><span class="marker"></span></section>
+                      
+              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/331" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">Policies Explained</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><a name="policies" id="policies"></a></p>
+<h4>Research Presentation Exam</h4>
+<p>Before you may propose your thesis, you must pass the Research Presentation Exam, or RPE.  You are expected to pass the RPE by the middle of your third year, and you have at most two chances to pass it.  <a href="/sites/cs.drupal-prod.dartmouth.edu/files/RPEguidelines2011.pdf">Our Research Presentation Exam document (pdf)</a> contains detailed information, and you fill out and submit <a href="/sites/cs.drupal-prod.dartmouth.edu/files/RPEform.pdf">the Presentation Exam form (pdf)</a> when you take the RPE.</p>
+<h4>Thesis committee</h4>
+<ol><li>The primary advisor to any Ph.D. student in Computer Science must be a Dartmouth tenure-track Computer Science faculty member.  By "tenure-track Computer Science faculty member," we mean a faculty member whose appointment is Assistant Professor of Computer Science, Associate Professor of Computer Science, or Professor of Computer Science at Dartmouth.</li>
+<li>The primary advisor to any M.S. student in Computer Science must be a tenure-track Computer Science faculty member or a research-track Computer Science faculty member at Dartmouth.  By "research-track Computer Science faculty member," we mean a faculty member whose rank is Research Assistant Professor, Research Associate Professor, or Research Professor and whose appointment is in the Department of Computer Science at Dartmouth.</li>
+<li>In addition to the primary advisor, any Ph.D. thesis committee must include at least three tenure-track faculty members whose tenure-track appointments are in Computer Science at Dartmouth, and it must also include at least one person from outside Dartmouth.  A Ph.D. thesis committee may, in addition, contain adjunct or research faculty from within the CS department or Dartmouth faculty from outside the CS department, but it is not required to include any additional members.</li>
+<li>We recognize that on occasion, a Ph.D. student's de facto advisor could be someone other than a tenure-track Computer Science faculty member.  In such cases, the student must also have an official primary advisor who is a tenure-track Computer Science faculty member at Dartmouth, and we expect the de facto advisor to provide the student's funding.</li>
+<li>In addition to the primary advisor, any M.S. thesis committee must include at least one other tenure-track or research-track Computer Science faculty member at Dartmouth.</li>
+</ol><h4>Thesis proposal</h4>
+<ul><li>See procedure for announcing your public defense.</li>
+</ul><h4>Thesis defense</h4>
+<ul><li>Each February the Graduate Studies office sends a memo defining the deadline for the final date for submitting theses; typically the date is the Friday that is nine days prior to Commencement. You must have completed all requirements, and a lot of paperwork, by that date (check with them).</li>
+<li>Work backward from the dissertation deadline to choose a date for your defense, in consultation with your advisor and your committee. A good rule of thumb is to provide the complete dissertation to your committee 2-4 weeks prior to the defense, and allow yourself at least 2 weeks after the defense to handle any necessary revisions.</li>
+<li>See procedure for announcing your public defense.</li>
+</ul><h4>Grades</h4>
+<p>We grade all courses, including research (CS 297-299) and teaching assistance (CS 296) on the HP/P/LP/NC scale mentioned in the ORC and the Handbook. Note in particular that the Handbook lists some serious consequences of getting a single NC or two LPs.</p>
+<h4>Vacations</h4>
+<p>During any year in which they receive compensation from Dartmouth, regardless of the source of those funds, graduate students are committed to be in residence for a period of twelve months commencing one week before fall-term registration. Vacation time, including official holidays, should not exceed a total of one month per year and the time(s) should be mutually agreeable to the student and the research advisor. During the summer(s) students are expected to perform their thesis research, unless they are off Dartmouth funding (e.g., for internship in industry). Students should obtain written permission from their advisor, in advance, for any expected absences of greater than one month per year.</p>
+ </div></div></div>  </div>
+</div>
+</div><span class="marker"></span></section>
+                      
+              <section class="dept-section field-item odd"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/336" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">Procedures Explained</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><a name="procedures" id="procedures"></a></p>
+<h4>Courses</h4>
+<ul><li>Full-time students should register for three credits each term. If you plan to register for fewer than three actual courses, fill out the three credits with the appropriate choice of CS 296, 297, 298, or 299, with the consent of your research advisor.</li>
+</ul><h4>Thesis proposal and defense</h4>
+<ul><li>The oral proposal and defense are public events and should be announced to the public, using our normal colloquium-announcement procedures, at least one week prior to the event. It is the responsibility of the student, in consultation with the student's committee, to arrange the date, time, and place, and to inform the department staff so that an announcement can be made.</li>
+</ul><h4>Summer funding</h4>
+<ul><li>Ph.D students on Dartmouth Fellowship (DF) for a given year are normally on the fellowship for Fall, Winter, and Spring terms. We strongly encourage students to work with a professor on research during the summer term, and are happy to provide DF students with funding for that purpose, assuming sufficient funding is available.</li>
+<li>Summer DF funding is usually available to those who want it. In any case, if you would like summer funding, please contact the advisor to Ph.D students. The advisor will send out a reminder to all Ph.D students in early spring term, asking students who want summer funding to explicitly request it, to identify the professor with whom they plan to work, and to briefly describe their project (a paragraph will do). We ask for explicit requests so that we can budget appropriately for the summer, and identify early whether all students wanting funding, can receive funding.</li>
+<li>Note that you may be asked to T.A. a course in the summer, as with any other DF term.</li>
+<li>Often students find research internships in industry to be a valuable experience, whether in summer or in any other term. We encourage you to talk with your advisor, or the advisor to Ph.D students, about this possibility.</li>
+</ul></div></div></div>  </div>
 </div>
 </div><span class="marker"></span></section>
             </div>
@@ -351,28 +420,12 @@
 				  <div class="three pull-nine column sidebar">
 				    <section class="nav-side">
 				        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
-  <ul class="menu"><li class="first leaf menu-mlid-866"><a href="/recent-publications" title="">Faculty Publications</a></li>
-<li class="leaf menu-mlid-906"><a href="/research/faculty-research-areas" title="Faculty research areas">Faculty Research Areas</a></li>
-<li class="leaf menu-mlid-821"><a href="/research/labs" title="Research labs">Labs</a></li>
-<li class="expanded active-trail menu-mlid-822"><a href="/research/projects" title="Research projects" class="active-trail">Projects</a><ul class="menu"><li class="first leaf menu-mlid-1016"><a href="/research/projects/amulet-computational-jewelry-mhealth">Amulet: Computational Jewelry</a></li>
-<li class="leaf menu-mlid-986"><a href="/research/projects/approximate-nearest-neighbour-searching">Approximate Nearest Neighbour Searching</a></li>
-<li class="leaf menu-mlid-1041"><a href="/research/projects/digital-image-forensics">Digital Image Forensics</a></li>
-<li class="leaf menu-mlid-991"><a href="/research/projects/fg">FG</a></li>
-<li class="leaf menu-mlid-976"><a href="/research/projects/family-based-protein-design">Family-Based Protein Design</a></li>
-<li class="leaf menu-mlid-1001"><a href="/research/projects/green-lite-dartmouth">Green Lite Dartmouth</a></li>
-<li class="leaf menu-mlid-1011"><a href="/research/projects/mcmc-and-theory-computing">MCMC and the Theory of Computing</a></li>
-<li class="leaf menu-mlid-1021"><a href="/research/projects/multimodal-protein-structure">Multimodal Protein Structure</a></li>
-<li class="leaf menu-mlid-1036"><a href="/research/projects/price-and-allocation-algorithms-markets-and-networks">Price and Allocation Algorithms</a></li>
-<li class="leaf menu-mlid-1046"><a href="/research/projects/reconstructing-ancient-egyptian-tombs">Reconstructing Ancient Egyptian Tombs</a></li>
-<li class="leaf menu-mlid-1026"><a href="/research/projects/robotic-origami-folding">Robotic Origami Folding</a></li>
-<li class="leaf menu-mlid-981"><a href="/research/projects/smartphone-sensing">Smartphone Sensing</a></li>
-<li class="leaf menu-mlid-1051"><a href="/research/projects/towards-effective-pki">Towards Effective PKI</a></li>
-<li class="leaf menu-mlid-1031"><a href="/research/projects/exact-optimal-trajectories-robots">Trajectories for Robots</a></li>
-<li class="leaf menu-mlid-1006"><a href="/research/projects/trusted-hardware">Trusted Hardware</a></li>
-<li class="leaf menu-mlid-996"><a href="/research/projects/trustworthy-health-and-wellness">Trustworthy Health and Wellness</a></li>
-<li class="last leaf active-trail active menu-mlid-971"><a href="/research/projects/visual-learning" class="active-trail active">Visual Learning</a></li>
+  <ul class="menu"><li class="first collapsed menu-mlid-823"><a href="/graduate/programs" title="Graduate programs">Programs</a></li>
+<li class="leaf menu-mlid-824"><a href="/graduate/courses" title="Graduate courses">Courses</a></li>
+<li class="leaf menu-mlid-826"><a href="/graduate/life" title="Graduate student life">Graduate Life</a></li>
+<li class="expanded active-trail menu-mlid-827"><a href="/graduate/current-students" title="Information for current students" class="active-trail">Current Students</a><ul class="menu"><li class="first last leaf active-trail active menu-mlid-856"><a href="/graduate/students/expectations" title="Expectations, policies, and procedures" class="active-trail active">Expectations</a></li>
 </ul></li>
-<li class="last leaf menu-mlid-1061"><a href="http://www.cs.dartmouth.edu/~csrs/" title="Computer Science Research Symposium">Annual Research Symposium</a></li>
+<li class="last leaf menu-mlid-841"><a href="/people/alumni-professors" title="Program graduates who now have teaching positions">Alumni Professors</a></li>
 </ul></div>
 					</section>
 				  </div>
@@ -516,7 +569,7 @@ _gaq.push(['t2._trackPageview']);(function() {var ga = document.createElement("s
 <script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/scripts.js?mzmp4d"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"MAl58iCzRbFnvBw45Vyl1upd5i7DeD7Tb7myxJsvNHA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"hNkZUDiZco0tMwh_pm9h8tgtGEG4EQgE_mCbSFtm6hE","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
 //--><!]]>
 </script>
 </body>

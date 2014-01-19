@@ -1,0 +1,1037 @@
+http://www.cs.dartmouth.edu/undergraduate/honors-program
+2
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/145" />
+<link rel="shortcut icon" href="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="http://web.cs.dartmouth.edu/undergraduate/honors-program" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta content="Honors Program" about="/undergraduate/honors-program" property="dc:title" />
+<meta about="/undergraduate/honors-program" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no">  
+  <title>Honors Program | Department of Computer Science</title>
+  <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_mxbvRAV0_YoXwGCXbsQzCkegc1pXHICzfd8PPQD9YE4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_eNCzbFC38J4lNPTkie9TueRTpfkpBmXxfgOsIjZjPMk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_6qyX0bBpUxnVthuQk-GikJ99nabYXbQv8tFkyw341Ws.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_U7mWrAoP_FyKfHVM8C73TLOHjWA_iQJnH0FyvpNEt0I.css" media="all" />
+
+<!--[if lt IE 10]>
+<link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_dept/css/ie.css?mzmp4d" media="all" />
+<![endif]-->
+  <!--// LOCAL STYLESHEET TO GET AROUND CROSS-DOMAIN PROXY ISSUE //-->
+  <style type="text/css" media="all">
+  @import url("/sites/cs.drupal-prod.dartmouth.edu/themes/dartmouth_dept_computerscience/css/fonts_cs.css");
+  </style>
+  <!--// END LOCAL STYLESHEET CUSTOMIZATION //-->
+
+  <script src="/sites/all/themes/dartmouth_master/js/vendor/modernizr-2.6.1.js"></script>
+  <script src="/sites/all/themes/dartmouth_master/js/vendor/respond.min.js"></script>
+	
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-145 node-type-page" >
+
+<!--[if lt IE 8]>
+<p class="chromeframe">You are viewing this site in <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-9">compatibility view</a>, or an Internet Explorer version lower than 8. Please either upgrade your browser, or take your browser out of compatibility view to better experience this site.</p>
+<![endif]-->
+    
+<div id="skip-refine"><a class="offscreen" href="#main-content">Skip Top Navigation</a></div>
+<div class="row emergency">
+<script type="text/javascript" src="http://www.dartmouth.edu/emergency/banner/embed-emergency.php" ></script>
+</div>
+	<div class="wrapper-main">
+
+	  	        <div class="container">
+<div class="row">
+<div id="nav-dartmouth" aria-hidden="true" role="navigation" tabindex="-1">
+<ul class="nav-dartmouth-table" role="list">
+<li class="three column" role="listitem" aria-labelledby="437">
+<h3 id="nav-label-437">
+<a href="education">Education<span></span></a>
+</h3>
+<ul class="group" role="menu">
+<li role="menuitem"><a href="http://dartmouth.edu/education/degrees">Degree Finder</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/education/departments-programs-arts-sciences">Departments & Programs</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/global/global-learning">Global Learning</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/education/graduate-schools">Graduate Schools</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/education/libraries">Libraries</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/education/lifelong-learning">Lifelong Learning</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/education/summer-dartmouth">Summer at Dartmouth</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/education/undergraduate-experience">The Undergraduate Experience</a></li>
+</ul>
+</li><li class="three column" role="listitem" aria-labelledby="438">
+<h3 id="nav-label-438">
+<a href="research">Research<span></span></a>
+</h3>
+<ul class="group" role="menu">
+<li role="menuitem"><a href="http://dartmouth.edu/research/news">News</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/research/faculty-experts">Faculty Experts</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/research/research-centers">Research Centers</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/research/schools-departments">Schools & Departments</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/research/publications-and-grants">Publications & Grants</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/research/events">Conferences & Seminars</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/research/resources">Research Support</a></li>
+</ul>
+</li><li class="three column" role="listitem" aria-labelledby="439">
+<h3 id="nav-label-439">
+<a href="life-community">Life & Community<span></span></a>
+</h3>
+<ul class="group" role="menu">
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/explore-green">Explore the Green</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/arts-across-campus">Arts Across Campus</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/athletics-recreation">Athletics & Recreation</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/diversity">Diversity</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/health-wellness">Health & Wellness</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/outdoors">Outdoors</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/residential-life">Residential Life</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/service">Service</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/student-groups-activities">Student Groups & Activities</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/life-community/sustainability">Sustainability</a></li>
+</ul>
+</li><li class="three column" role="listitem" aria-labelledby="440">
+<h3 id="nav-label-440">
+<a href="<front>">More<span></span></a>
+</h3>
+<ul class="group" role="menu">
+<li role="menuitem"><a href="http://dartmouth.edu/admissions">Admissions</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/education/graduate-schools">Schools</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/centers-institutes">Centers</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/global/">Global</a></li>
+<li role="menuitem"><a href="http://arts.dartmouth.edu">Arts</a></li>
+<li role="menuitem"><a href="http://www.dartmouthsports.com">Athletics</a></li>
+<li role="menuitem"><a href="http://dartmouth.edu/giving-dartmouth">Giving</a></li>
+</ul>
+<div id="search-dartmouth" role="search"><form onsubmit="location.href='http://dartmouth.edu/search/gss/' + document.getElementById('input-search-dartmouth').value; return false;"><fieldset><label for="input-search-dartmouth" class="offscreen">Search</label><input type="text" id="input-search-dartmouth" name="input-search-dartmouth" placeholder="Search" aria-required="true"><input type="submit" class="icn-search" value="GO"></fieldset></form></div></li></ul></div></div></div><div role="banner" class="container"><header class="row header-main"><div class="eight column"><a href="http://dartmouth.edu" class="logo">Dartmouth College</a></div><div class="four column"><nav id="btn-nav-dartmouth"><a href="#"><span class="icn"></span><span class="btn-txt">Explore Dartmouth</span></a></nav></div></header></div>	  
+		<div class="container">
+			<div class="row">
+				<div class="twelve column" id="dept-container">
+				
+                                      <div id="department-banner">
+			            <div id="dept-info" role="contentinfo"><h1 role="heading" aria-labelledby="dept-info"><span>Department of</span>Computer Science</h1></div><div id="department-social"><ul role="menubar" aria-label="Contact and Social Navigation"><li class="logo-mail" role="menuitem" aria-label="Contact Information"><div class="mail-info" tabindex="0"><span class="dept-phone">( 603) 646-2206</span><span class="dept-email"><a href="mailto:computer.science.department@dartmouth.edu">computer.science.department@dartmouth.edu</a></span><span class="dept-contact"><a href="http://web.cs.dartmouth.edu/contact-us">Contact</a></div><a href="http://web.cs.dartmouth.edu/contact-us"><span class="hide-txt">Contact Us</span></a></li></ul></div>			        </div>
+			      
+
+					<form method="POST" action="/search/node" id="search-form"><fieldset>
+					<nav id="nav-dept" role="navigation">
+						<ul role="menubar">
+							<li class="nav-dept-home" role="menuitem"><a href="/"><span class="hide-txt">Home</span></a></li>
+							<li class="nav-dept-menu closed" role="menuitem" aria-hidden="true"><div class="wrap"><span class="hide-txt">Menu</span></div></li>
+							<li class="nav-dept-container">
+								<div>
+									<div class="nav-row">
+	
+	
+<ul role="menu">
+    <li class="nav-item" role="menuitem" aria-haspopup="1" aria-labeledby="deptnav-label-805"><a href="/undergraduate" id="deptnav-label-805">Undergraduate<span class="arrow-down"></span></a>
+  	<div class="row dept-subnav" role="menu">
+	  <div class="four column" role="menuitem">
+		<ul role="menu">
+		  		  		  										
+		    <li role="menuitem"><a href="/undergraduate/what-you-will-learn">What You Will Learn</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/undergraduate/major">The Major</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/undergraduate/digital-arts">Digital Arts Minor</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/undergraduate/honors-program">Honors Program</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/undergraduate/undergraduate-courses">Courses</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/undergraduate/john-g-kemeny-computing-prize">Prizes</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/undergraduate/cs-jobs-and-internships">CS Jobs and Internships</a></li>
+                        		  	    </ul>
+	  </div>
+	  
+    <div class="four column" role="menuitem">
+    <div id="node-411" class="node node-feature clearfix" about="/computer-science-major" typeof="sioc:Item foaf:Document">
+
+  
+  
+  <div class="field field-name-field-menu-feature-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/homepage_feature/public/373_CS23_0.jpg?itok=3VE1uhRs" width="373" height="210" /></div></div></div>        <h2 property="dc:title" datatype="">Computer Science Major</h2>
+      <div class="field field-name-field-linked-page field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/undergraduate/major-redesign">Read more</a></div></div></div>
+
+  
+  
+  
+</div>
+  </div>
+  <div class="four column" role="menuitem">
+    <div id="node-371" class="node node-feature clearfix" about="/digital-arts-minor" typeof="sioc:Item foaf:Document">
+
+  
+  
+  <div class="field field-name-field-menu-feature-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/homepage_feature/public/373_traffic_light_0.jpg?itok=AxTGl0_S" width="373" height="210" /></div></div></div>        <h2 property="dc:title" datatype="">Digital Arts Minor</h2>
+      <div class="field field-name-field-linked-page field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/undergraduate/digital-arts">Read more</a></div></div></div>
+
+  
+  
+  
+</div>
+  </div>
+	</div>
+    </li>
+    <li class="nav-item" role="menuitem" aria-haspopup="1" aria-labeledby="deptnav-label-806"><a href="/graduate" id="deptnav-label-806">Graduate<span class="arrow-down"></span></a>
+  	<div class="row dept-subnav" role="menu">
+	  <div class="four column" role="menuitem">
+		<ul role="menu">
+		  		  		  										
+		    <li role="menuitem"><a href="/graduate/programs">Programs</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/graduate/courses">Courses</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/graduate/life">Graduate Life</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/graduate/current-students">Current Students</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/people/alumni-professors">Alumni Professors</a></li>
+                        		  	    </ul>
+	  </div>
+	  
+    <div class="four column" role="menuitem">
+    <div id="node-376" class="node node-feature clearfix" about="/graduate-life" typeof="sioc:Item foaf:Document">
+
+  
+  
+  <div class="field field-name-field-menu-feature-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/homepage_feature/public/373_Novack_students.jpg?itok=3BqpUTRc" width="373" height="210" /></div></div></div>        <h2 property="dc:title" datatype="">Graduate Life</h2>
+      <div class="field field-name-field-linked-page field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/graduate/life">Read more</a></div></div></div>
+
+  
+  
+  
+</div>
+  </div>
+  <div class="four column" role="menuitem">
+    <div id="node-366" class="node node-feature clearfix" about="/apply" typeof="sioc:Item foaf:Document">
+
+  
+  
+  <div class="field field-name-field-menu-feature-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/homepage_feature/public/373_Sudikoff_lab_0.jpg?itok=_69xoziq" width="373" height="210" /></div></div></div>        <h2 property="dc:title" datatype="">Apply</h2>
+      <div class="field field-name-field-linked-page field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/graduate/apply">Read more</a></div></div></div>
+
+  
+  
+  
+</div>
+  </div>
+	</div>
+    </li>
+    <li class="nav-item" role="menuitem" aria-haspopup="1" aria-labeledby="deptnav-label-807"><a href="/research" id="deptnav-label-807">Research<span class="arrow-down"></span></a>
+  	<div class="row dept-subnav" role="menu">
+	  <div class="four column" role="menuitem">
+		<ul role="menu">
+		  		  		  										
+		    <li role="menuitem"><a href="/recent-publications">Faculty Publications</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/research/faculty-research-areas">Faculty Research Areas</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/research/labs">Labs</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="/research/projects">Projects</a></li>
+                        		  		  										
+		    <li role="menuitem"><a href="http://www.cs.dartmouth.edu/~csrs/">Annual Research Symposium</a></li>
+                        		  	    </ul>
+	  </div>
+	  
+    <div class="four column" role="menuitem">
+    <div id="node-386" class="node node-feature clearfix" about="/labs" typeof="sioc:Item foaf:Document">
+
+  
+  
+  <div class="field field-name-field-menu-feature-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/homepage_feature/public/810_Sean_Smith_0.jpg?itok=IyiwAdXs" width="373" height="210" /></div></div></div>        <h2 property="dc:title" datatype="">Labs</h2>
+      <div class="field field-name-field-linked-page field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/research/labs">Read more</a></div></div></div>
+
+  
+  
+  
+</div>
+  </div>
+  <div class="four column" role="menuitem">
+    <div id="node-396" class="node node-feature clearfix" about="/projects" typeof="sioc:Item foaf:Document">
+
+  
+  
+  <div class="field field-name-field-menu-feature-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/homepage_feature/public/810_Digital_Arts1_0.jpg?itok=kaLQuTW1" width="373" height="210" /></div></div></div>        <h2 property="dc:title" datatype="">Projects</h2>
+      <div class="field field-name-field-linked-page field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/research/projects">Read more</a></div></div></div>
+
+  
+  
+  
+</div>
+  </div>
+	</div>
+    </li>
+</ul></div><div class="nav-row"><ul role="menu">    <li class="nav-item" role="menuitem" aria-haspopup="" aria-labeledby="deptnav-label-577"><a href="/news-events" id="deptnav-label-577">What's Happening</a>
+    </li>
+    <li class="nav-item" role="menuitem" aria-haspopup="" aria-labeledby="deptnav-label-578"><a href="/people" id="deptnav-label-578">People</a>
+    </li>
+</ul>
+
+									</div>
+								</div>
+							</li>
+							<li class="nav-dept-search-container">
+								<div role="search">
+									<div class="nav-row search-table">	
+										<label for="search" class="offscreen">Search</label>
+										<span class="input-wrap">
+											<input type="text" class="search-input" id="search" name="keys" placeholder="Search" aria-required="true">
+										</span>
+										<span id="search-close" aria-hidden="true">
+											<a class="hide-txt" tabindex="0">Close Search</a>
+										</span>
+									</div>
+								</div>
+							</li>
+							<li class="nav-dept-search" aria-hidden="false">
+								<a id="search-open" tabindex="0"><span class="hide-txt">Search</span></a>
+								<input type="submit" id="search-submit" value="GO" />
+							</li>
+						</ul>
+					</nav>
+					
+					
+					</fieldset></form>
+				</div>
+			</div>
+		</div>
+
+		<div id="main-content" class="container" role="main">
+		    
+			<div class="row">
+			  			  				<div class="nine push-three column">
+			  	
+				  				  
+        			        			<h1 class="title" id="page-title">Honors Program</h1>        			        			
+					<div class="tabs"></div>       	 			        			        													
+        			    <div id="node-145" class="node node-page clearfix row dept-landing-container" about="/undergraduate/honors-program" typeof="foaf:Document">
+
+  
+  
+  <div class="content">
+            
+    <div class="field-collection-container clearfix">
+
+
+</div>    
+    <div class="field-collection-container clearfix">
+
+<div class="field field-name-field-section field-type-field-collection field-label-hidden">
+    <div class="field-items">
+                    
+              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/76" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">About the Honors Program</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>Every year a few computer-science majors choose to go beyond the normal major and enter our Honors Program. Honors students engage in independent work culminating in the writing of a senior thesis, and are considered for graduation with honors in the major. The experience of participating in an independent research project and of writing a senior thesis can be particularly important for anyone who intends to study for the Ph.D. degree in computer science.</p>
+<p>For completion of the Honors Program in Computer Science, and to be eligible to graduate with Honors or High Honors, a student must complete either an independent study project or a written thesis (for High Honors the thesis is required), and have his or her program of study approved as an Honors Program by the Undergraduate Advisor. In addition, the recommendation of the thesis/project advisor to award honors or high honors must be ratified by a Departmental vote. An honors project is undertaken by a student under the guidance of a faculty member. Usually the subject of the project or thesis will be motivated by the concepts or content of an advanced course taken as a part of the student's major. Honors projects and theses are normally completed over a period of two or three terms. A variety of activities, such as participation in a department seminar, can lead to a project or thesis. Student suggestions for both projects and theses are welcome. The student should consult with his/her prospective project advisor and submit to the Undergraduate Advisor a brief written proposal of the project that has the written approval of the project advisor. The Undergraduate Advisor will review the student's proposal and the courses that have been selected for the Honors major. Approval of the proposal and course selection will constitute formal admission into the Honors Program. This procedure should be completed before the end of fall term, senior year. The student may then register for (at most two terms of) Computer Science 97, Undergraduate Research.</p>
+<p>Admission to the Honors Program requires a general College average of B, and a B average in the major at the time of admission and at the time of graduation. Moreover, a B+ average is required in the work of the Honors project/thesis. The B average in the major is determined as follows: Courses prerequisite to the major are not counted, but all other courses used as part of the major are counted, as are all courses titled Computer Science (beyond prerequisites, excluding 97), including courses cross-listed with Computer Science. Note that in the case of modified majors, courses used as part of the major may include courses from other departments. The B+ average required in the work of the Honors program is defined to be a grade of B+ given by the thesis/project advisor on the thesis or project. Questions about this requirement should be addressed to the Departmental Undergraduate Advisor.</p>
+<p>To receive Honors, the student must complete an independent study project or thesis, demonstrating "work that is clearly greater in depth and scope than that expected in the normal major program."</p>
+<p>To receive High Honors, the student <b>must</b> write a thesis. There are three additional requirements beyond those for Honors:</p>
+<ol><li>The student must demonstrate substantial independence in their work.</li>
+<li>The quality of the work should be close to something publishable in a refereed forum. Interpret this requirement as follows. If the project is primarily a written thesis, then it should be close to the quality expected in a refereed conference or journal. If the project is primarily a software or hardware artifact (in which case the thesis would for the most part be an exposition of the artifact), then it should be of sufficient quality that people would actually use it.</li>
+<li>The student must publicly present the thesis, as follows. The student and advisor form a committee of three Computer Science faculty, one of which is the advisor. In the final two weeks of the term, the student must make a formal public presentation of their work, with their committee in attendance.</li>
+</ol><p>In all cases, the advisor (and committee, if relevant), recommends honors, high honors, or no honors, to the department faculty, who make the ultimate decision.</p>
+<p>If you have any questions about the Undergraduate Program, contact the Advisor to Undergraduate Students.</p>
+ </div></div></div>  </div>
+</div>
+</div><span class="marker"></span></section>
+                      
+              <section class="dept-section field-item odd"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/81" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">Honors Application</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><a href="/sites/cs.drupal-prod.dartmouth.edu/files/thesisform.pdf">Honors Thesis Application (pdf)</a></p>
+<p>You can fill out this form from within Adobe Acrobat.</p>
+<ul><li>Type into the following fields: Last name, First name, Middle initial, Class, HB, Thesis advisor, Thesis title, and all Course fields that apply. If the thesis title does not fit on the first line, use the additional lines.</li>
+<li>Select the appropriate grade for each course. When you click elsewhere, the GPA field will be computed automatically and then updated.</li>
+<li>Print out the filled-in form when you are done. You will need to sign the hardcopy, as will your thesis advisor, before you give it to the Advisor to Undergraduate Students.</li>
+</ul></div></div></div>  </div>
+</div>
+</div><span class="marker"></span></section>
+                      
+              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/86" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">Handing In Your Honors Thesis</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>CS honors theses are due at 9:00 AM the day of the CS faculty meeting at which honors are decided. The CS Undergraduate Advisor will announce this date to the CS honors thesis students each year as soon as this date is determined.</p>
+<p><strong>An advisor has the right to require the thesis to be handed in to her or him <em>in advance</em> of the department's deadline.</strong> (For example, the advisor might require the thesis to be handed in to her or him before the public presentation, if the student is going for high honors.) The actual deadline, therefore, is the earlier of two times: whenever the advisor requires the thesis to be handed in, and 9:00 AM the day of the CS faculty meeting.</p>
+<p>No extensions beyond 9:00 AM the day of the CS faculty meeting are ever possible. Never. Nunca. Won't happen. Don't even think about it.</p>
+<p>Your thesis should be <em>archival quality</em>. In other words, it should be good enough that we will archive it as a Dartmouth College Computer Science Technical Report. Although you are not absolutely required to make your thesis a tech report, we prefer that you do.</p>
+<p>Follow these steps to make your thesis a tech report:</p>
+<ol><li>Have your advisor get a TR number from the CS office. Our TR numbers are now of the form TRYYYY-XXX, where YYYY is the year and XXX is a 3-digit number. Allow a couple of days for this step, just in case.</li>
+<li>When you produce your thesis, make sure that it has the following elements:
+<ul><li>A title.</li>
+<li>An abstract, which is a relatively short (1-4 paragraphs) summary of the main results of your thesis.</li>
+<li>Page numbers.</li>
+<li>Your advisor's name.</li>
+<li>The TR number appearing above the title, in the form<br /><blockquote>Dartmouth<br />College<br />Computer<br />Science Technical Report TRYYYY-XXX</blockquote>
+</li>
+</ul></li>
+<li>Produce a PDF (or PostScript) file containing your entire thesis.</li>
+<li>Follow the instructions at <a href="http://www.cs.dartmouth.edu/site-content/reports/index.php">the TR archive</a> to submit a tech report and metadata.</li>
+</ol></div></div></div>  </div>
+</div>
+</div><span class="marker"></span></section>
+                      
+              <section class="dept-section field-item odd"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/91" typeof="">
+  <div class="content">
+    
+	<h3 class="field-item even">Recent Honors Projects</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>Some of the senior theses completed in the past few years are listed below, with links to tech reports where available.</p>
+<ul><li>Katelin Bailey, 2010 (Smith)
+<ul><li><em>Virtual Container Attestation: Customized Trusted Containers for On-demand Computing</em></li>
+</ul></li>
+<li>Chase Decker, 2010 (Jayanti)
+<ul><li><em>A Solution to k-Assignment in O(k) RMR Complexity</em></li>
+</ul></li>
+<li>Robert Eastman, 2010 (Torresani)
+<ul><li><em>Image Search Using Composite Images</em></li>
+</ul></li>
+<li>Matthew Mukerjee, 2010 (Campbell)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2010-666/">NeuroPhone: Brain-Mobile Phone Interface using a Wireless EEG Headset</a></em></li>
+</ul></li>
+<li>Yiming Qi, 2010 (Zomorodian)
+<ul><li><em>Generic Cubical Homology via Persistence</em></li>
+</ul></li>
+<li>Loren Sands-Ramshaw, 2010 (Smith)
+<ul><li><em>Creating Large Disturbances in the Power Grid: Methods of Attack After Cyber Infiltration</em></li>
+</ul></li>
+<li>Kate Schnippering, 2010 (Pellacini)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2010-670/">The Curious Timekeeper: Creative Thesis in Interactive Sculpture</a></em></li>
+</ul></li>
+<li>Karn Seth, 2010 (Chakrabarti)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2010-673/">Block Sensitivity versus Sensitivity</a></em></li>
+</ul></li>
+<li>Linden Vongsathorn, 2010 (Choudhury and Pellacini)
+<ul><li><em>Developing Techniques for the Visualization of Behavioral Patterns in Daily Activities</em></li>
+</ul></li>
+<li>Andrew Wansley, 2010 (Jayanti)
+<ul><li><em>Implementations of Constant RMR Reader-Writer Lock and Variants</em></li>
+</ul></li>
+</ul><ul><li>Thomas Eastman, 2009 (Pellacini)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2009-647/">Hawk: 3D Gesture-Based Interactive Bird Flight Simulation</a></em></li>
+</ul></li>
+<li>Kevin Fisher, 2009 (Jayanti)
+<ul><li><em>Balancing Fairness and Concurrency in Group Mutual Exclusion</em></li>
+</ul></li>
+<li>Kelly Hackett, 2009 (Choudhury)
+<ul><li><em>Modeling Personality Types Using Speech Characteristics from Automatic Conversation Detection</em></li>
+</ul></li>
+<li>William Henderson-Frost, 2009 (Chakrabarti)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2009-646/">An Information Complexity Approach to the Inner Product Problem</a></em></li>
+</ul></li>
+<li>Matthew Lashof-Regas, 2009 (Loeb)
+<ul><li><em>Using Nintendo Wii Remotes to Simulate Low-Cost Motion Capture</em></li>
+</ul></li>
+<li>Jeffrey Milloy, 2009 (Bailey-Kellogg)
+<ul><li><em>A CUDA-Accelerated Scoring Algorithm for Tandem Mass Spectral Analysis</em></li>
+</ul></li>
+<li>Oleg Seletsky, 2009 (Smith)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2009-651/">Developing an Improved, Web-Based Classroom Response System with Web Services</a></em></li>
+</ul></li>
+<li>Evan Tice, 2009 (Farid)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2009-645/">Automated Tracking of Dividing Nuclei in Microscopy Videos of Living Cells</a></em></li>
+</ul></li>
+<li>Stephanie Trudeau, 2009 (Smith)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2009-652/">The Effects of Introspection on Computer Security Policies</a></em></li>
+</ul></li>
+</ul><ul><li>Nicholas Christman, 2008 (Jayanti)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2008-618/">The Weakest Failure Detector to Solve Mutual Exclusion</a></em></li>
+</ul></li>
+<li>Ruslan Dimov, 2008 (Smith)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2008-624/">Making RBAC Work in Dynamic, Fast-Changing Corporate Environments</a></em></li>
+</ul></li>
+<li>Jeffrey Fielding, 2008 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2008-623/">Linkability in Activity Inference Data Sets</a></em></li>
+</ul></li>
+<li>Fernando Orta, 2008 (Smith)
+<ul><li><em>Coco: inferring user's intent</em></li>
+</ul></li>
+<li>Manya Sleeper, 2008 (Smith)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2008-628/">Key Management for Secure Power SCADA</a></em></li>
+</ul></li>
+</ul><ul><li>Omar ElNaggar, 2007 (Thompson)
+<ul><li><em>Analyzing Network Activity Incentivized with a Network Game</em></li>
+</ul></li>
+<li>Andrew Flynn, 2007 (Smith)
+<ul><li><em>WikiD: Dartmouth Wiki Implementing Fine-Grained, Decentralized Access Control</em></li>
+</ul></li>
+<li>Mark Henle, 2007 (Drysdale)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2007-593/">Closest and Farthest-Line Voronoi Diagrams in the Plane</a></em></li>
+</ul></li>
+<li>Darrell Hoy, 2007 (Fleischer)
+<ul><li><em>Atomic Splittable Nash Equilibria in Series-Parallel Network Flow Games</em></li>
+</ul></li>
+<li>Daniel Peebles, 2007 (Balkcom)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2007-592/">SCML: A Structural Representation for Chinese Characters</a></em></li>
+</ul></li>
+<li>Evan Sparks, 2007 (Smith)
+<ul><li><em><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2007-597/">A Security Assessment of Trusted Platform Modules</a></em></li>
+</ul></li>
+<li>Alexander Steinberg, 2007 (Pellacini)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2007-597/">Lighting with Sketches</a></em></li>
+</ul></li>
+</ul><ul><li>Khanh Do Ba, 2006 (Jayanti)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2006-578/">Wait-Free and Obstruction-Free Snapshot</a></em></li>
+</ul></li>
+<li>David Blinn, 2006 (Chakrabarti)
+<ul><li><em>Topics in Communication Complexity</em></li>
+</ul></li>
+<li>Allen Harvey Jr., 2006 (Smith)
+<ul><li><em>Graceful Security Degradation: Providing Secure Data Quickly</em></li>
+</ul></li>
+<li>Constantinos Neophytou, 2006 (Henderson)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2006-577/">SAMPLED: Shared Anonymous Music Playback using wirelEss Devices</a></em></li>
+</ul></li>
+<li>Nicholas Santos (Smith), 2006
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2006-574/">Limited Delegation (Without Sharing Secrets) in Web Applications</a></em></li>
+</ul></li>
+</ul><ul><li>Marco Adelfio, 2005 (Chakrabarti)
+<ul><li><em>Lower Bounds of the Communication Complexity of Shifting</em></li>
+</ul></li>
+<li>Matthew Bell, 2005 (Balkcom)
+<ul><li><em>Utilizing Motion Planning with Friction and Uncertainty to Develop a Toy Rock Climbing Robot</em></li>
+</ul></li>
+<li>Patrick Brady, 2005 (Linder)
+<ul><li><em>GPS-Based Direction Provider Photographic Landmarks</em></li>
+</ul></li>
+<li>Alexander Clay, 2005 (Linder)
+<ul><li><em>Path-Planning for a Mobile Wall-Climbing Robot</em></li>
+</ul></li>
+<li>Twum Djin, 2005 (Smith)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2005-544/">Managing Access Control in Virtual Private Networks</a></em></li>
+</ul></li>
+<li>Ohene Kwasi Ohene-Adu, 2005 (Linder)
+<ul><li><em>Force Feedback and Tilt Sensing</em></li>
+</ul></li>
+<li>Gary Morris, 2005 (McIlroy)
+<ul><li><em>A Binding Time Analysis Technique for Functional Programming Languages</em></li>
+</ul></li>
+<li>Alexei Pytel, 2005 (Drysdale)
+<ul><li><em>Image Thinning</em></li>
+</ul></li>
+<li>Nebojsa Sabovic, 2005 (Cormen)
+<ul><li><em>Performing Out-of-Core Mixed-Radix Permutations on Parallel Disk Systems</em></li>
+</ul></li>
+<li>David Schnur, 2005 (Smith)
+<ul><li><em>GPUGrid: A Framework for Distributed Computation Across GPU Networks</em></li>
+</ul></li>
+<li>Michael Swift, 2005 (Linder)
+<ul><li><em>3D Reconstruction on Consumer Grade Video Cards</em></li>
+</ul></li>
+<li>Timothy Williamson, 2005 (Linder)
+<ul><li><em>Integrating a Human Figure into an Animation by Interpolating Key Poses</em></li>
+</ul></li>
+<li>Ling Yan, 2005 (Bailey-Kellogg)
+<ul><li><em>Industry Ecosystem Processing and Analysis System</em></li>
+</ul></li>
+</ul><ul><li>Alexander Barsamian, 2004 (Smith)
+<ul><li><em>Compartmentalization and Attestation Using SELinux and TPM-enhanced Hardware</em></li>
+</ul></li>
+<li>Nikita Dubrovsky, 2004 (Gray)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2004-499/">Mobile Agents Simulation with DaSSF</a></em></li>
+</ul></li>
+<li>Eric Krupski, 2004 (Hawblitzel)
+<ul><li><em>Using Packet Types in a Packet Processing Language</em></li>
+</ul></li>
+<li>Rizwan Mahmud, 2004 (Linder)
+<ul><li><em>Representing Movement as Sound</em></li>
+</ul></li>
+<li>Cristina Maracine, 2004 (Cormen)
+<ul><li><em>Experimenting With Prefetch Instructions for Better Performance in Pipeline-Structured Computations</em></li>
+</ul></li>
+<li>Paul Mazzuca, 2004 (Feustel)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2004-506/">Access Control in a Distributed Decentralized Network: An XML Approach to Network Security using XACML and SAML</a></em></li>
+</ul></li>
+<li>Calvin Newport, 2004 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2004-504/">Simulating Mobile Ad hoc Networks: A Quantitative Evaluation of Common MANET Simulation Models</a></em></li>
+</ul></li>
+<li>Joseph Pechter, 2004 (Farid and Loeb)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2004-503/">Enhancing Expressiveness of Speech through Animated Avatars for Instant Messaging and Mobile Phones</a></em></li>
+</ul></li>
+<li>William Pechter, 2004 (Farid and Loeb)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2004-501/">Synchronizing Keyframe Facial Animation to Multiple Text-to-Speech Engines and Natural Voice with Fast Response Time</a></em></li>
+</ul></li>
+<li>Kimberly Powell, 2004 (Smith)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2004-512/">Testing the Greenpass Wireless Security System</a></em></li>
+</ul></li>
+<li>Rachel Ringel, 2004 (Jayanti)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2004-498/">Efficient Wait-Free Implementation of Atomic Multi-Word Buffer</a></em></li>
+</ul></li>
+<li>Brunn Roysden III, 2004 (Cormen)
+<ul><li><em>Scheduling Pipelined, Multi-Threaded Programs in Linux</em></li>
+</ul></li>
+<li>Samuel Slee, 2004 (Jayanti)
+<ul><li><em>Adaptive, Long-lived, Namespace-Optimal Renaming in the Asynchronous, Shared-Memory Model</em></li>
+</ul></li>
+<li>Geoffrey Stowe, 2004 (Feustel)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2004-512/">A Secure Network Node Approach to the Policy Decision Point in Distributed Access Control</a></em></li>
+</ul></li>
+</ul><ul><li>Mark Barolak, 2003 (Drysdale)
+<ul><li><em>Finding Optimal Lower Bounds on Sorting Networks Through Exhaustive Search</em></li>
+</ul></li>
+<li>Michael DeRosa, 2003 (Gray)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2003-458/">Power Conservation in the Network Stack of Wireless Sensors</a></em></li>
+</ul></li>
+<li>Elizabeth Hamon, 2003 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2003-460/">Enhancing Asynchronous Parallel Computing</a></em></li>
+</ul></li>
+<li>Byungil Kang, 2003 (Smith)
+<ul><li><em>Strengthening Voice Authentication with Splicing Detection for Use with Untrusted Clients</em></li>
+</ul></li>
+<li>Clara Lee, 2003 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2003-455/">Persistence and Prevalence in the Mobility of Dartmouth Wireless Network Users</a></em></li>
+</ul></li>
+<li>Thomas Mueller, 2003 (Butler)
+<ul><li><em>Billiards Mentor for Studying Performance of Search Algorithms in a Continuous Domain with Significant Uncertainly</em></li>
+</ul></li>
+<li>Neha Narula, 2003 (Jayanti)
+<ul><li><em>Eliminating Complex Synchronization Instructions in the Contention-Free Case for Mutual Exclusion Algorithms</em></li>
+</ul></li>
+<li>Mindy Pereira, 2003 (Smith)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2003-461/">Trusted S/MIME Gateways</a></em></li>
+</ul></li>
+<li>Evan Richardson, 2003 (Perrone)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2003-450/">An Evaluation of the Impact of Models for Radio Propagation on the Simulation of 802.11b Wireless Networks</a></em></li>
+</ul></li>
+<li>Paul Seligman, 2003 (Smith)
+<ul><li><em>An Exploration of Machine Learning Algorithms to Prevent Fraudulent Data Access from Online Journal Archives</em></li>
+</ul></li>
+<li>Daniel Simola, 2003 (Aslam)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2003-456/">Discovery and Analysis of Gene Regulatory Sequence Elements in the Human Genome</a></em></li>
+</ul></li>
+<li>Lisa A. Torrey, 2003 (Aslam)
+<ul><li><em><a href="http://www.cs.dartmouth.edu/reports/abstracts/TR2003-449">An Active Learning Approach to Ranking Search Engines</a></em></li>
+</ul></li>
+<li>Gabriel Vanrenen, 2003 (Smith)
+<ul><li><em>Revocation of Security Capabilities: A Case Study on Distributed, Trusted Third Parties</em></li>
+</ul></li>
+<li>Edward Wei, 2003 (Hawblitzel)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2003-465/">Using Low Level Linear Memory Management for Type-Preserving Mark-Sweep Garbage Collector</a></em></li>
+</ul></li>
+</ul><ul><li>Kwang-Hyun Baek, 2002 (Jayanti)
+<ul><li><em>Mutual Exclusion with Process Priorities</em></li>
+</ul></li>
+<li>Marco Barreno, 2002 (Smith)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2002-425">The Future of Cryptography under Quantum Computers</a></em></li>
+</ul></li>
+<li>Kobby Essien, 2002 (Akay)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2002-431/">Analysis of Protein Sequences Using Time Frequency and Kolmogorov-Smirnov Methods</a></em></li>
+</ul></li>
+<li>Sebastien Lahaie, 2002 (Aslam)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2002-428/">Information-theoretic Bounds on the Training and Testing Error of Boosting </a></em></li>
+</ul></li>
+<li>Christopher Masone, 2002 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2002-426/">Role Definition Language (Rul): A Language to Describe Context-Aware Roles </a></em></li>
+</ul></li>
+<li>A. Abram White, 2002 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2002-427/">Performance and Interoperability In Solar </a></em></li>
+</ul></li>
+</ul><ul><li>Jeremy T. Fineman, 2001 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-402/">Optimizing the Dimensional Method for Performing Multidimensional, Multiprocessor, Out-of-Core FFTs</a></em></li>
+</ul></li>
+<li>Alex Iliev, 2001 (Smith)
+<ul><li><em><a href="http://www.cs.dartmouth.edu/%7Esws/theses/alex.ps">An Armored Data Vault</a></em></li>
+</ul></li>
+<li>Mehmet Iyigun, 2001 (Nicol)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-405/">DaSSFNet: An Extension to DaSSF for High-Performance Network Modeling</a></em></li>
+</ul></li>
+<li>Ammar Khalid, 2001 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-391/">A Directory Infrastructure to Support Mobile Services</a></em></li>
+</ul></li>
+<li>Mikhail G. Khankin
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-407/">TCP/IP Implementation within the Dartmouth Scalable Simulation Framework</a></em></li>
+</ul></li>
+<li>Eric Kidd, 2001 (Hawblitzel)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-404/">Efficient Compression of Generic Function Dispatch Tables</a></em></li>
+</ul></li>
+<li>David D. Latham, 2001 (Aslam)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-394/">An Empirical Study of Training and Testing Error in Boosting</a></em></li>
+</ul></li>
+<li>Aidan S. Marcuss, 2001 (Makedon)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-403/">EcomRISK.org : A site to classify and organize the risks of performing business on the Internet</a></em></li>
+</ul></li>
+<li>David Marmaros, 2001 (Rus and Kotz)
+<ul><li><em>A System for Audio Personalization with Applications on Wireless Devices</em></li>
+</ul></li>
+<li>Arun Mathias, 2001 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-392/">SmartReminder: A Case Study on Context-Sensitive Applications</a></em></li>
+</ul></li>
+<li>G. Ayorkor Mills-Tettey, 2001 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-390/">Mobile Voice Over IP (MVOIP): An Application-level Protocol </a></em></li>
+</ul></li>
+<li>Sean Richardson, 2001 (Smith)
+<ul><li><em>Whom Can You Trust? Designing a System to Evaluate and Represent the Security State of Machines Using PKI</em></li>
+</ul></li>
+<li>Jeremy I. Robin, 2001 (Drysdale)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-406/">Fastab: Solving the Pitch to Notation Problem</a></em></li>
+</ul></li>
+<li>Thomas B. Stephens, 2001 (Wilson)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-389/">Improving a Brokering System for Linking Distributed Simulations</a></em></li>
+</ul></li>
+<li>Pablo Stern, 2001 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-393/">Measuring Early Usage of Dartmouth's Wireless Network</a></em></li>
+</ul></li>
+<li>Tiffany M. Wong, 2001 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-395/">An Implementation of Object-Oriented Program Transformation for Thought-Guided Debugging </a></em></li>
+<li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2001-396/">Implementing a Database Information System for an Electronic Baseball Scorecard</a></em></li>
+</ul></li>
+</ul><ul><li>Karolyn Abram, 2000 (Rockmore)
+<ul><li><em>Registration of Images with Dissimilar Contrast using a Hybrid Method Employing Correlation and Mutual Information</em></li>
+</ul></li>
+<li>John C. Artz, 2000 (Kotz and Rus)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2000-372/">Personal Radio </a></em></li>
+</ul></li>
+<li>Debbie O. Chyi, 2000 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2000-370/">An Infrastructure for a Mobile-Agent System that Provides Personalized Services to Mobile Devices </a></em></li>
+</ul></li>
+<li>Ezra E.k. Cooper, 2000 (Gray)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2000-375/">An Economic CPU-Time Market for D'Agents </a></em></li>
+</ul></li>
+<li>Cenk Ergan, 2000 (Kotz)
+<ul><li><em>Porting the Minix File System to Windows NT</em></li>
+</ul></li>
+<li>Eric Greenberg, 2000 (Rockmore)
+<ul><li><em>A Simulation of Auroral Absorption</em></li>
+</ul></li>
+<li>David B. Martin, 2000 (Farid)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/TR2000-373/">Depth from Flash</a></em></li>
+</ul></li>
+<li>Fred Reiss, 2000 (Aslam)
+<ul><li><em>Automated Information Organization for Information Retrieval</em></li>
+</ul></li>
+<li>Dan Scholnick, 2000 (Aslam)
+<ul><li><em>JBoost: A Java platform for experimenting with boosting algorithms</em></li>
+</ul></li>
+</ul><ul><li>Lauren Baptist, 1999 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-350/">Two Algorithms for Performing Multidimensional, Multiprocessor, Out-of-Core FFTs</a></em></li>
+</ul></li>
+<li>James Chalfant, 1999 (Nicol)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-346">Parallel DaSSF Discrete-Event Simulation without Shared Memory</a></em></li>
+</ul></li>
+<li>Jeffrey Isaacs, 1999 (Aslam)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-357">Investigating Measures for Pairwise Document Similarity</a></em></li>
+</ul></li>
+<li>Marisa Kolodny, 1999 (Rus)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-354">Computers, Art and Smart Rooms: A Smart Picture Frame that Senses the Weather and Genetically Evolves Images</a></em></li>
+</ul></li>
+<li>David Kung, 1999 (Cybenko)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-349">Improved Computer Detection and Mapping of Cerebral Oxygenation</a></em></li>
+</ul></li>
+<li>Artem Lifschitz, 1999 (Rus)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-356">An Environment for the Facilitation of Robotic Programming</a></em></li>
+</ul></li>
+<li>Matthew Pearson, 1999 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-351">Fast Out-of-Core Sorting on Parallel Disk Systems</a></em></li>
+</ul></li>
+<li>Hongxia Quan, 1999 (Nicol)
+<ul><li><em>The implementation of DaSSF OTcl APIs</em></li>
+</ul></li>
+<li>April Rasala, 1999 (Stein)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-347">Existence Theorems for Scheduling to Meet Two Objectives</a></em></li>
+</ul></li>
+<li>Marsette Vona, 1999 (Rus)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-348">A Two Dimensional Crystalline Atomic Unit Modular Self-reconfigurable Robot</a></em></li>
+</ul></li>
+<li>Jason Whaley, 1999 (Aslam)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR99-352">An Application of Word Sense Disambiguation to Information Retrieval</a></em></li>
+</ul></li>
+<li>Alik Widge, 1999 (Donald)
+<ul><li><em>A Method for Automatic Determination of Protein Secondary Structure from Sparse Unassigned Heteronuclear NMR Data</em></li>
+</ul></li>
+</ul><ul><li>Chrissy Alvarado, 1998 (Rus)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR98-336">Distributed Route Planning Using Partial Map-Building</a></em></li>
+</ul></li>
+<li>Bill Bleier, 1998 (Makedon)
+<ul><li><em>Authoring 3D Multimedia Stimuli for Functional Brain Mapping</em></li>
+</ul></li>
+<li>Matt Carter, 1998 (Aslam)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR98-341/">Boosting a Simple Weak Learner For Classifying Handwritten Digits</a></em></li>
+</ul></li>
+<li>Peter DeSantis, 1998 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR98-339">Avoiding Conflicts Dynamically in Direct Mapped Caches with Minimal Hardware Support</a></em></li>
+</ul></li>
+<li>Susanna Leng, 1998 (Donald)
+<ul><li><em>Data-directed conformational search: using global optimization to determine large protein structure from sparse NOE data</em></li>
+</ul></li>
+<li>Chris Leon, 1998 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR98-333/">An Implementation of External-Memory Depth-First Search</a></em></li>
+</ul></li>
+<li>Cem Paya, 1998 (Morris)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR98-328/">A framework for World Wide Web client-authentication protocols</a></em></li>
+</ul></li>
+<li>Jack Pien, 1998 (Aslam)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR98-334/">C Compiler Targeting the Java Virtual Machine</a></em></li>
+</ul></li>
+<li>Mike Pryor, 1998 (Aslam and Davis)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR98-338/">The Effects of Singular Value Decomposition on Collaborative Filtering</a></em></li>
+</ul></li>
+<li>Mike Ross, 1998 (Rus)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR98-332/">Multiscouting: Guiding distributed manipulation with multiple mobile sensors</a></em></li>
+</ul></li>
+<li>Eric White, 1998 (Kotz)
+<ul><li><em>A Comparison of Mobile Agent Migration Mechanisms</em></li>
+</ul></li>
+</ul><ul><li>Jon Feldman, 1997 (Stein)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR97-316/">The Complexity of Clerkship Scheduling</a></em></li>
+</ul></li>
+<li>Eric Hagen, 1997 (Aslam)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR97-318/">An Information Retrieval System for Performing Hierarchical Document Clustering</a></em></li>
+</ul></li>
+<li>Simon Holmes a Court, 1997 (Danskin)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR97-315/">Admission Control Policies for Internet File Transfer Protocols</a></em></li>
+</ul></li>
+<li>Dawn Lawrie, 1997 (Rus)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR97-313/">Self-Organizing File Cabinet</a></em></li>
+</ul></li>
+<li>Ka-Tak Lo, 1997 (Danskin)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR97-314/">KLZ: A Prototype X Protocol Compression System</a></em></li>
+</ul></li>
+</ul><ul><li>Mark Giles, 1996 (Rus)
+<ul><li><em>The virtual yellow page system and cooperation between transportable agents</em></li>
+</ul></li>
+<li>Jonathan Moore, 1996 (Danskin)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR96-291/">Object-oriented Scenes for Virtual Light</a></em></li>
+</ul></li>
+<li>Denis Serenyi, 1996 (Danskin)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR96-289/">Segmenting Workstation Screen Images</a></em></li>
+</ul></li>
+<li>Scott Silver, 1996 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR96-287/">Implementation and Analysis of Software-based Fault Isolation</a></em></li>
+</ul></li>
+<li>Bin Song, 1996 (Jayanti)
+<ul><li><em>Space Complexity Lower Bound of 1-Tolerant Self-Implementation of Consensus</em></li>
+</ul></li>
+<li>Michael Taylor, 1996 (Healy)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR96-290/">MRI on the Fly: Accelerating MRI Imaging Using LOA Classification with LOB Feature Extraction</a></em></li>
+</ul></li>
+<li>Joel Thomas, 1996 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR96-288/">The Panda Array I/O Library on the Galley Parallel File System</a></em></li>
+</ul></li>
+</ul><ul><li>Matthew Cheyney, 1995 (Stein and Danskin)
+<ul><li><em>Can Biological Computation be Used to Factor Large Numbers</em></li>
+</ul></li>
+<li>Scott Cushman, 1995 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR95-259/">A Multiple Discrete Pass Algorithm on a DEC Alpha 2100</a></em></li>
+</ul></li>
+<li>Kenneth Harker, 1995 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR95-258/">TIAS: A Transportable Intelligent Agent System</a></em></li>
+</ul></li>
+<li>Daniel Kranowski, 1995 (Rus)
+<ul><li><em>Morpho-lexical and Syntactic Elements of Natural Language and Understanding</em></li>
+</ul></li>
+<li>Song Bac Toh, 1995 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR95-260/">Simulation of a Video-on-Demand System</a></em></li>
+</ul></li>
+</ul><ul><li>Kristin Bruhl, 1994 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR94-224/">BMMC Permutations on a DECmpp 12000/Sx</a></em></li>
+</ul></li>
+<li>Christine McGavran, 1994 (Cormen)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR94-225/">Human Creativity Through Computer Gaming</a></em></li>
+</ul></li>
+<li>James Thomas, 1994 (Sandon)
+<ul><li><em>Automated classification of leaves by quantitative analysis of vein structure from images</em></li>
+</ul></li>
+</ul><ul><li>Derek Allen, 1993 (Sandon)
+<ul><li><em>On the use of structure to optimize neural network performance using the game of tetris</em></li>
+</ul></li>
+<li>Lewis Cirne, 1993 (Brown)
+<ul><li><em>Yakkity Yak: A Macintosh front end to network chat programs</em></li>
+</ul></li>
+</ul><ul><li>Christopher Bingham, 1992 (Walinsky)
+<ul><li><em>Exploring Hybrid Genetics-Based Machine Learning: A Non-Stimulus-Response Animat Problem Incorporating State</em></li>
+</ul></li>
+<li>Jeff Cobb, 1992 (Walinsky)
+<ul><li><em>Applying Artificial Neural Network Classifiers to Handwritten Character Recognition</em></li>
+</ul></li>
+<li>James Gochee, 1992 (Kotz)
+<ul><li><em><a href="http://cs.dartmouth.edu/site-content/reports/PCS-TR94-218/">SPEDE-- A Simple Programming Environment for Distributed Execution</a></em></li>
+</ul></li>
+<li>Brendan Hahn, 1992 (Kotz)
+<ul><li><em>Anthrax: A system for parallel distributed computation</em></li>
+</ul></li>
+<li>Nicholas P. Wilt, 1992 (Drysdale)
+<ul><li><em>OORT- an Object Oriented Ray Tracer</em></li>
+</ul></li>
+</ul></div></div></div>  </div>
+</div>
+</div><span class="marker"></span></section>
+            </div>
+</div>
+</div>                
+  </div>
+
+  
+  
+  
+</div>
+        			
+				</div>
+				
+			
+								  				
+				  <div class="three pull-nine column sidebar">
+				    <section class="nav-side">
+				        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-810"><a href="/undergraduate/what-you-will-learn" title="Learning outcomes">What You Will Learn</a></li>
+<li class="collapsed menu-mlid-809"><a href="/undergraduate/major" title="The Major">The Major</a></li>
+<li class="leaf menu-mlid-812"><a href="/undergraduate/digital-arts" title="Information about digital arts">Digital Arts Minor</a></li>
+<li class="leaf active-trail active menu-mlid-813"><a href="/undergraduate/honors-program" title="About the honors program" class="active-trail active">Honors Program</a></li>
+<li class="collapsed menu-mlid-816"><a href="/undergraduate/undergraduate-courses" title="Overview of Undergraduate courses">Courses</a></li>
+<li class="collapsed menu-mlid-814"><a href="/undergraduate/john-g-kemeny-computing-prize" title="Awards for computing projects">Prizes</a></li>
+<li class="last leaf menu-mlid-2386"><a href="/undergraduate/cs-jobs-and-internships">CS Jobs and Internships</a></li>
+</ul></div>
+					</section>
+				  </div>
+								
+							</div>
+		</div>
+		  <div id="module-depts" class="container" role="navigation">
+	    <div class="row">
+	          <div class="eight column group"></div><div class="four column"><a href="#" id="all-departments">All Departments<span></span></a></div><div id="dept-listing" class="twelve column group" role="menubar" aria-labeledby="all-departments"><div class="three column" role="menuitem" aria-label="View Alphabetized All Departments List 1"><ul><li role="menuitem"><a href="http://www.dartmouth.edu/~african">African and African American Studies</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~anthro/">Anthropology</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~arthist">Art History</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~damell/">Asian and Middle Eastern Languages and Literatures</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~asia">Asian and Middle-Eastern Studies</a></li><li role="menuitem"><a href="http://dartmouth.edu/biology/">Biological Sciences</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~chem">Chemisty</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~classics/">Classics</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~complit/">Comparative Literature</a></li><li role="menuitem"><a href="http://www.cs.dartmouth.edu">Computer Science</a></li></ul></div><div class="three column" role="menuitem" aria-label="View Alphabetized All Departments List 10"><ul><li role="menuitem"><a href="http://www.dartmouth.edu/~earthsci/">Earth Sciences</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~economics">Economics</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~educ">Education</a></li><li role="menuitem"><a href="http://thayer.dartmouth.edu">Engineering Sciences</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~english">English</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~envs">Environmental Studies</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~film/">Film and Media Studies</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~frandit">French and Italian</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~geog/">Geography</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~german">German Studies</a></li></ul></div><div class="three column" role="menuitem" aria-label="View Alphabetized All Departments List 20"><ul><li role="menuitem"><a href="http://www.dartmouth.edu/~govt/">Government</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~history/">History</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~hums1-2">Humanities 1 & 2</a></li><li role="menuitem"><a href="http://dartmouth.edu/writing-speech">Institute for Writing and Rhetoric</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~jewish/">Jewish Studies</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~lalacs/">Latin American, Latino and Carribean Studies</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~linguist/">Linguistics and Cognitive Science</a></li><li role="menuitem"><a href="http://math.dartmouth.edu">Mathematics</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~medren/">Medieval and Renaissance Studies</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~music/">Music</a></li></ul></div><div class="three column" role="menuitem" aria-label="View Alphabetized All Departments List 30"><ul><li role="menuitem"><a href="http://www.dartmouth.edu/~nas/">Native American Studies</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~phil/">Philosophy</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~physics/">Physics and Astronomy</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~psych/">Psychological and Brain Sciences</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~religion/">Religion</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~russian/">Russian</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~socy/">Sociology</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~spanport/">Spanish and Portuguese</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~sart/">Studio Art</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~theater/">Theater</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~wstudies/">Women’s and Gender Studies</a></li></ul></div></div>	    </div>
+	  </div>
+			
+
+		      <footer class="container" id="footer-container" role="footer"><div class="row"><div class="eight column main-footer"><ul class="row" role="menu"><li class="nav-footer four column" role="menuitem" aria-labeledby="footer-label-My Dartmouth"><h3 id="footer-label-My Dartmouth">My Dartmouth<span></span></h3><ul role="menu"><li role="menuitem"><a href="http://www.dartmouth.edu/quicklinks/students/">Students</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/quicklinks/faculty/">Faculty</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/quicklinks/staff/">Staff</a></li><li role="menuitem"><a href="http://alumni.dartmouth.edu">Alumni</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/quicklinks/families/">Families</a></li></ul></li><li class="nav-footer four column" role="menuitem" aria-labeledby="footer-label-Find it Fast"><h3 id="footer-label-Find it Fast">Find it Fast<span></span></h3><ul role="menu"><li role="menuitem"><a href="http://www.dartmouth.edu/~maps">Campus Map</a></li><li role="menuitem"><a href="http://dartmouth.edu/directory">Directory</a></li><li role="menuitem"><a href="http://dartmouth.edu/events">Events</a></li><li role="menuitem"><a href="http://now.dartmouth.edu">News</a></li><li role="menuitem"><a href="http://dartmouth.edu/visit">Visit</a></li></ul></li><li class="nav-footer four column" role="menuitem" aria-labeledby="footer-label-Resources"><h3 id="footer-label-Resources">Resources<span></span></h3><ul role="menu"><li role="menuitem"><a href="http://dartmouth.edu/dartmouth-glance">Dartmouth at a Glance</a></li><li role="menuitem"><a href="http://dartmouth.edu/accessibility">Accessibility</a></li><li role="menuitem"><a href="http://dartmouth.edu/administrative-offices">Administrative Offices</a></li><li role="menuitem"><a href="http://www.dartmouth.edu/~prepare/">Emergency Preparedness</a></li><li role="menuitem"><a href="http://jobs.dartmouth.edu/">Careers</a></li></ul></li></ul></div><div class="four column social-footer"><nav class="nav-footer nav-footer-four" aria-labeledby="footer-label-follow"><h3 id="footer-label-follow">Connect With Us</h3><ul id="footer-social" class="group" role="menu"><li role="menuitem"><a href="http://www.facebook.com/Dartmouth" class="logo-facebook hide-txt">Facebook</a></li><li role="menuitem"><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=485761596" class="logo-itunes hide-txt">iTunes U</a></li><li role="menuitem"><a href="http://www.twitter.com/dartmouth" class="logo-twitter hide-txt">Twitter</a></li><li role="menuitem"><a href="http://www.youtube.com/Dartmouth" class="logo-youtube hide-txt">YouTube</a></li><li role="menuitem"><a href="http://www.flickr.com/photos/dartmouthflickr" class="logo-flickr hide-txt">flickr</a></li></ul></nav></div></div><div class="row tiny-footer"><div class="twelve column"><ul id="nav-privacy" role="menu"><li role="menuitem"><a href="http://www.dartmouth.edu/copyright/">Copyright © 2013 Trustees of Dartmouth College</a></li><li aria-hidden="true" class="disc" role="menuitem">&#149;</li><li role="menuitem"><a href="http://dartmouth.edu/privacy">Privacy</a></li><li aria-hidden="true" class="disc" role="menuitem">&#149;</li><li role="menuitem"><a href="http://dartmouth.edu/index">A-Z Index</a></li><li aria-hidden="true" class="disc" role="menuitem">&#149;</li><li role="menuitem"><a href="http://dartmouth.edu/contact">Contact</a></li></ul></div></div></footer>	
+	</div> <!-- /#wrapper -->
+<!--// START SLIDE OUT NAV //-->
+<div id="mobile-nav-container" class="container">
+  <div class="row">
+    <div class="twelve column">
+      <header>
+        <img src="sites/cs.drupal-prod.dartmouth.edu/themes/dartmouth_dept_computerscience/img/logo-white.png" alt="Dartmouth Logo" />
+      </header>
+    <div id="mobile-nav-inner">
+    
+<!--// START SLIDEOUT NAV //-->    
+
+          
+	  <div id="mobile-nav-inner-alpha">
+        <ul id="root" class="current-page current">
+        <li class="current"><a href="/" class="parent">Department of Computer Science</a></li>
+
+        <li><a href="undergraduate" class="parent">Undergraduate</a><a href="#805" class="child"><span class="arrow"></span></a></li>
+<li><a href="graduate" class="parent">Graduate</a><a href="#806" class="child"><span class="arrow"></span></a></li>
+<li><a href="research" class="parent">Research</a><a href="#807" class="child"><span class="arrow"></span></a></li>
+<li><a href="news-events" class="parent">What's Happening</a></li>
+<li><a href="people" class="parent">People</a></li>
+		</ul>
+		
+		
+		<ul id="805">
+<li class="nav-back"><a href="#root" class="parent"><span class="btn-back hide-txt">Back</span></a></li><li><a href="undergraduate/what-you-will-learn" class="parent">What You Will Learn</a></li>
+<li><a href="undergraduate/major" class="parent">The Major</a><a href="#809" class="child"><span class="arrow"></span></a></li>
+<li><a href="undergraduate/digital-arts" class="parent">Digital Arts Minor</a></li>
+<li><a href="undergraduate/honors-program" class="parent">Honors Program</a></li>
+<li><a href="undergraduate/undergraduate-courses" class="parent">Courses</a><a href="#816" class="child"><span class="arrow"></span></a></li>
+<li><a href="undergraduate/john-g-kemeny-computing-prize" class="parent">Prizes</a><a href="#814" class="child"><span class="arrow"></span></a></li>
+<li><a href="undergraduate/cs-jobs-and-internships" class="parent">CS Jobs and Internships</a></li>
+</ul>
+
+<ul id="806">
+<li class="nav-back"><a href="#root" class="parent"><span class="btn-back hide-txt">Back</span></a></li><li><a href="graduate/programs" class="parent">Programs</a><a href="#823" class="child"><span class="arrow"></span></a></li>
+<li><a href="graduate/courses" class="parent">Courses</a></li>
+<li><a href="graduate/life" class="parent">Graduate Life</a></li>
+<li><a href="graduate/current-students" class="parent">Current Students</a><a href="#827" class="child"><span class="arrow"></span></a></li>
+<li><a href="people/alumni-professors" class="parent">Alumni Professors</a></li>
+</ul>
+
+<ul id="807">
+<li class="nav-back"><a href="#root" class="parent"><span class="btn-back hide-txt">Back</span></a></li><li><a href="recent-publications" class="parent">Faculty Publications</a></li>
+<li><a href="research/faculty-research-areas" class="parent">Faculty Research Areas</a></li>
+<li><a href="research/labs" class="parent">Labs</a></li>
+<li><a href="research/projects" class="parent">Projects</a><a href="#822" class="child"><span class="arrow"></span></a></li>
+<li><a href="http://www.cs.dartmouth.edu/~csrs/" class="parent">Annual Research Symposium</a></li>
+</ul>
+
+		<ul id="809">
+<li class="nav-back"><a href="#root" class="parent"><span class="btn-back hide-txt">Back</span></a></li><li><a href="undergraduate/major-redesign/advice-for-majors" class="parent">Advice for Majors</a></li>
+</ul>
+
+<ul id="816">
+<li class="nav-back"><a href="#root" class="parent"><span class="btn-back hide-txt">Back</span></a></li><li><a href="undergraduate/courses/upcoming-class-schedule" class="parent">Upcoming Class Schedule</a></li>
+</ul>
+
+<ul id="814">
+<li class="nav-back"><a href="#root" class="parent"><span class="btn-back hide-txt">Back</span></a></li><li><a href="undergraduate/prizes/previous-winners" class="parent">Previous Winners</a></li>
+</ul>
+
+<ul id="823">
+<li class="nav-back"><a href="#root" class="parent"><span class="btn-back hide-txt">Back</span></a></li><li><a href="graduate/apply/phd" class="parent">Apply to the PhD Program</a></li>
+<li><a href="graduate/programs/applying-ms-program" class="parent">Apply to the MS Program</a></li>
+</ul>
+
+<ul id="827">
+<li class="nav-back"><a href="#root" class="parent"><span class="btn-back hide-txt">Back</span></a></li><li><a href="graduate/students/expectations" class="parent">Expectations</a></li>
+</ul>
+
+<ul id="822">
+<li class="nav-back"><a href="#root" class="parent"><span class="btn-back hide-txt">Back</span></a></li><li><a href="research/projects/amulet-computational-jewelry-mhealth" class="parent">Amulet: Computational Jewelry</a></li>
+<li><a href="research/projects/approximate-nearest-neighbour-searching" class="parent">Approximate Nearest Neighbour Searching</a></li>
+<li><a href="research/projects/digital-image-forensics" class="parent">Digital Image Forensics</a></li>
+<li><a href="research/projects/fg" class="parent">FG</a></li>
+<li><a href="research/projects/family-based-protein-design" class="parent">Family-Based Protein Design</a></li>
+<li><a href="research/projects/green-lite-dartmouth" class="parent">Green Lite Dartmouth</a></li>
+<li><a href="research/projects/mcmc-and-theory-computing" class="parent">MCMC and the Theory of Computing</a></li>
+<li><a href="research/projects/multimodal-protein-structure" class="parent">Multimodal Protein Structure</a></li>
+<li><a href="research/projects/price-and-allocation-algorithms-markets-and-networks" class="parent">Price and Allocation Algorithms</a></li>
+<li><a href="research/projects/reconstructing-ancient-egyptian-tombs" class="parent">Reconstructing Ancient Egyptian Tombs</a></li>
+<li><a href="research/projects/robotic-origami-folding" class="parent">Robotic Origami Folding</a></li>
+<li><a href="research/projects/smartphone-sensing" class="parent">Smartphone Sensing</a></li>
+<li><a href="research/projects/towards-effective-pki" class="parent">Towards Effective PKI</a></li>
+<li><a href="research/projects/exact-optimal-trajectories-robots" class="parent">Trajectories for Robots</a></li>
+<li><a href="research/projects/trusted-hardware" class="parent">Trusted Hardware</a></li>
+<li><a href="research/projects/trustworthy-health-and-wellness" class="parent">Trustworthy Health and Wellness</a></li>
+<li><a href="research/projects/visual-learning" class="parent">Visual Learning</a></li>
+</ul>
+
+
+
+      </div>
+<!--// END SLIDE OUT NAV //-->
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/misc/drupal.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/misc/ui/jquery.ui.position.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/misc/ui/jquery.ui.autocomplete.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/modules/contrib/gss/scripts/autocomplete.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/modules/contrib/google_analytics/googleanalytics.js?mzmp4d"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-17623200-1"]);_gaq.push(["_setDomainName", ".web.cs.dartmouth.edu"]);_gaq.push(["_trackPageview"]);_gaq.push(['t2._setAccount', 'UA-17623200-3']);
+_gaq.push(['t2._trackPageview']);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/vendor/jquery-1.9.0.min.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/vendor/jquery.ba-dotimeout.min.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/vendor/jquery.touchSwipe.min.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/vendor/jquery.cycle2.min.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/vendor/jquery.fittext.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/vendor/jquery.mobile.vmouse.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/vendor/responsive-tables.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/faculty-listing.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/news-events.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/universal.js?mzmp4d"></script>
+<script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/scripts.js?mzmp4d"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"LpFLhpf-qQBbgS3S7qg1I6Wbrn6I_7dylcKEAmCQv1M","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+//--><!]]>
+</script>
+</body>
+</html>

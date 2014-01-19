@@ -1,3 +1,5 @@
+http://www.cs.dartmouth.edu/research/projects/robotic-origami-folding
+2
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -6,15 +8,15 @@
 <!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/526" />
+<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/581" />
 <link rel="shortcut icon" href="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="canonical" href="http://web.cs.dartmouth.edu/research/projects/visual-learning" />
+<link rel="canonical" href="http://web.cs.dartmouth.edu/research/projects/robotic-origami-folding" />
 <meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<meta content="Visual Learning" about="/research/projects/visual-learning" property="dc:title" />
-<meta about="/research/projects/visual-learning" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<meta content="Robotic Origami Folding" about="/research/projects/robotic-origami-folding" property="dc:title" />
+<meta about="/research/projects/robotic-origami-folding" property="sioc:num_replies" content="0" datatype="xsd:integer" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no">  
-  <title>Visual Learning | Department of Computer Science</title>
+  <title>Robotic Origami Folding | Department of Computer Science</title>
   <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_mxbvRAV0_YoXwGCXbsQzCkegc1pXHICzfd8PPQD9YE4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_eNCzbFC38J4lNPTkie9TueRTpfkpBmXxfgOsIjZjPMk.css" media="all" />
@@ -34,7 +36,7 @@
   <script src="/sites/all/themes/dartmouth_master/js/vendor/respond.min.js"></script>
 	
 </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-526 node-type-page" >
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-581 node-type-page" >
 
 <!--[if lt IE 8]>
 <p class="chromeframe">You are viewing this site in <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-9">compatibility view</a>, or an Internet Explorer version lower than 8. Please either upgrade your browser, or take your browser out of compatibility view to better experience this site.</p>
@@ -306,9 +308,9 @@
 			  			  				<div class="nine push-three column">
 			  	
 				  				  
-        			        			<h1 class="title" id="page-title">Visual Learning</h1>        			        			
+        			        			<h1 class="title" id="page-title">Robotic Origami Folding</h1>        			        			
 					<div class="tabs"></div>       	 			        			        													
-        			    <div id="node-526" class="node node-page clearfix row dept-landing-container" about="/research/projects/visual-learning" typeof="foaf:Document">
+        			    <div id="node-581" class="node node-page clearfix row dept-landing-container" about="/research/projects/robotic-origami-folding" typeof="foaf:Document">
 
   
   
@@ -323,13 +325,14 @@
 <div class="field field-name-field-section field-type-field-collection field-label-hidden">
     <div class="field-items">
                     
-              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/641" typeof="">
+              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/696" typeof="">
   <div class="content">
     
-	<h3 class="field-item even">Prof. Lorenzo Torresani</h3>
-<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><img height="205" width="205" alt="Visual Learning Logo" title="Visual Learning Logo" class="media-element file-default" typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/shapeimage_1.png" /></p>
-<p>The Visual Learning Group researches methods to acquire models of the real-world from visual data, such as images, videos, and motion sequences. Most of this research lies at the boundary between computer vision, machine learning and computer animation. Projects include learning image representations for visual recognition - the problem of determining what is where in a picture - but also extracting models of human movement from video and motion capture data.</p>
-<p><a href="http://vlg.cs.dartmouth.edu/">Read more...</a></p>
+	<h3 class="field-item even">Prof. Devin Balkcom</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><img height="77" width="128" alt="Robotic Origami Folding Logo" title="Robotic Origami Folding Logo" class="media-element file-default" typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/origami.jpg" /></p>
+<p>Thin materials like sheet metal, paper, and cardboard are lightweight, inexpensive, and can be stored and shipped in bulk. Folding allows the construction of semi-rigid 3-D structures, including fast-food containers, paper bags, and file cabinets. Folding can also allow a single large surface or chain to be stored in a small volume; motivating examples include car airbags, space-telescope mirrors, and proteins. Finally, folding allows reconfiguration, without the need for disassembly and reassembly.</p>
+<p>We have built the first origami-folding robot (left), capable of folding a paper hat, paper airplane, and paper cup. We have also analyzed more complicated folding techniques; work with Erik and Martin Demaine questions whether ordinary paper shopping bags can be <a href="http://www.maa.org/mathland/mathtrek_07_25_05.html">mathematically folded</a>.</p>
+<p><a href="http://www.cs.dartmouth.edu/%7Erobotics/">Read more...</a></p>
 <p> </p>
  </div></div></div>  </div>
 </div>
@@ -364,13 +367,13 @@
 <li class="leaf menu-mlid-1021"><a href="/research/projects/multimodal-protein-structure">Multimodal Protein Structure</a></li>
 <li class="leaf menu-mlid-1036"><a href="/research/projects/price-and-allocation-algorithms-markets-and-networks">Price and Allocation Algorithms</a></li>
 <li class="leaf menu-mlid-1046"><a href="/research/projects/reconstructing-ancient-egyptian-tombs">Reconstructing Ancient Egyptian Tombs</a></li>
-<li class="leaf menu-mlid-1026"><a href="/research/projects/robotic-origami-folding">Robotic Origami Folding</a></li>
+<li class="leaf active-trail active menu-mlid-1026"><a href="/research/projects/robotic-origami-folding" class="active-trail active">Robotic Origami Folding</a></li>
 <li class="leaf menu-mlid-981"><a href="/research/projects/smartphone-sensing">Smartphone Sensing</a></li>
 <li class="leaf menu-mlid-1051"><a href="/research/projects/towards-effective-pki">Towards Effective PKI</a></li>
 <li class="leaf menu-mlid-1031"><a href="/research/projects/exact-optimal-trajectories-robots">Trajectories for Robots</a></li>
 <li class="leaf menu-mlid-1006"><a href="/research/projects/trusted-hardware">Trusted Hardware</a></li>
 <li class="leaf menu-mlid-996"><a href="/research/projects/trustworthy-health-and-wellness">Trustworthy Health and Wellness</a></li>
-<li class="last leaf active-trail active menu-mlid-971"><a href="/research/projects/visual-learning" class="active-trail active">Visual Learning</a></li>
+<li class="last leaf menu-mlid-971"><a href="/research/projects/visual-learning">Visual Learning</a></li>
 </ul></li>
 <li class="last leaf menu-mlid-1061"><a href="http://www.cs.dartmouth.edu/~csrs/" title="Computer Science Research Symposium">Annual Research Symposium</a></li>
 </ul></div>
@@ -516,7 +519,7 @@ _gaq.push(['t2._trackPageview']);(function() {var ga = document.createElement("s
 <script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/scripts.js?mzmp4d"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"MAl58iCzRbFnvBw45Vyl1upd5i7DeD7Tb7myxJsvNHA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"wDksTxN4_v5JhDhvEpVI5wVJIEFW32SV-H7Phd5ucSA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
 //--><!]]>
 </script>
 </body>

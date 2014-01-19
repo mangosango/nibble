@@ -1,3 +1,5 @@
+http://www.cs.dartmouth.edu/research/projects
+2
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -6,15 +8,15 @@
 <!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/526" />
+<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/154" />
 <link rel="shortcut icon" href="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="canonical" href="http://web.cs.dartmouth.edu/research/projects/visual-learning" />
+<link rel="canonical" href="http://web.cs.dartmouth.edu/research/projects" />
 <meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<meta content="Visual Learning" about="/research/projects/visual-learning" property="dc:title" />
-<meta about="/research/projects/visual-learning" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<meta content="Projects" about="/research/projects" property="dc:title" />
+<meta about="/research/projects" property="sioc:num_replies" content="0" datatype="xsd:integer" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no">  
-  <title>Visual Learning | Department of Computer Science</title>
+  <title>Projects | Department of Computer Science</title>
   <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_mxbvRAV0_YoXwGCXbsQzCkegc1pXHICzfd8PPQD9YE4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_eNCzbFC38J4lNPTkie9TueRTpfkpBmXxfgOsIjZjPMk.css" media="all" />
@@ -34,7 +36,7 @@
   <script src="/sites/all/themes/dartmouth_master/js/vendor/respond.min.js"></script>
 	
 </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-526 node-type-page" >
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-154 node-type-page" >
 
 <!--[if lt IE 8]>
 <p class="chromeframe">You are viewing this site in <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-9">compatibility view</a>, or an Internet Explorer version lower than 8. Please either upgrade your browser, or take your browser out of compatibility view to better experience this site.</p>
@@ -306,35 +308,40 @@
 			  			  				<div class="nine push-three column">
 			  	
 				  				  
-        			        			<h1 class="title" id="page-title">Visual Learning</h1>        			        			
+        			        			<h1 class="title" id="page-title">Projects</h1>        			        			
 					<div class="tabs"></div>       	 			        			        													
-        			    <div id="node-526" class="node node-page clearfix row dept-landing-container" about="/research/projects/visual-learning" typeof="foaf:Document">
+        			    <div id="node-154" class="node node-page clearfix row dept-landing-container" about="/research/projects" typeof="foaf:Document">
 
   
   
   <div class="content">
-            
+            <section class="intro">
+      <div class="field field-name-field-intro field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Our faculty are actively engaged in cutting-edge research in topics ranging from robotics to digital forensics to protein structure and design. Graduate and undergraduate students have opportunities to work directly with professors as they attempt to solve the field's most challenging problems. </p></div></div></div>    </section>
+        
     <div class="field-collection-container clearfix">
 
+
+<section class="feature-gallery">
+<ul class="field field-name-field-slideshow field-type-field-collection field-label-hidden "  role="list">
+          	  	        <li class="feature-gallery-slide" role="listitem" aria-labelledby="slide0">
+        <article>
+          <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/basic_article_slideshow/public/810_Kotz_iPad_0.jpg?itok=eQijEmN6" width="810" height="455" /></div></div></div>          <div class="caption">
+		    <div class="field field-name-field-caption field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="http://web.cs.dartmouth.edu/people/david-kotz">Professor David Kotz</a> leads the Trustworthy Health and Wellness project, whose team conducts research in the secure use of mobile and cloud technology for health and wellness applications. (Photo by Eli Burakian ’00)</p></div></div></div>		  </div>
+        </article>
+      </li>
+          </ul>
+<nav class="prev-next">
+  <a class="prev" aria-hidden="true"><span class="hide-txt">Previous</span></a>
+  <a class="next" aria-hidden="true"><span class="hide-txt">Next</span></a>
+</nav>
+</section>
 
 </div>    
     <div class="field-collection-container clearfix">
 
 <div class="field field-name-field-section field-type-field-collection field-label-hidden">
     <div class="field-items">
-                    
-              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/641" typeof="">
-  <div class="content">
-    
-	<h3 class="field-item even">Prof. Lorenzo Torresani</h3>
-<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><img height="205" width="205" alt="Visual Learning Logo" title="Visual Learning Logo" class="media-element file-default" typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/shapeimage_1.png" /></p>
-<p>The Visual Learning Group researches methods to acquire models of the real-world from visual data, such as images, videos, and motion sequences. Most of this research lies at the boundary between computer vision, machine learning and computer animation. Projects include learning image representations for visual recognition - the problem of determining what is where in a picture - but also extracting models of human movement from video and motion capture data.</p>
-<p><a href="http://vlg.cs.dartmouth.edu/">Read more...</a></p>
-<p> </p>
- </div></div></div>  </div>
-</div>
-</div><span class="marker"></span></section>
-            </div>
+          </div>
 </div>
 </div>                
   </div>
@@ -354,7 +361,7 @@
   <ul class="menu"><li class="first leaf menu-mlid-866"><a href="/recent-publications" title="">Faculty Publications</a></li>
 <li class="leaf menu-mlid-906"><a href="/research/faculty-research-areas" title="Faculty research areas">Faculty Research Areas</a></li>
 <li class="leaf menu-mlid-821"><a href="/research/labs" title="Research labs">Labs</a></li>
-<li class="expanded active-trail menu-mlid-822"><a href="/research/projects" title="Research projects" class="active-trail">Projects</a><ul class="menu"><li class="first leaf menu-mlid-1016"><a href="/research/projects/amulet-computational-jewelry-mhealth">Amulet: Computational Jewelry</a></li>
+<li class="expanded active-trail active menu-mlid-822"><a href="/research/projects" title="Research projects" class="active-trail active">Projects</a><ul class="menu"><li class="first leaf menu-mlid-1016"><a href="/research/projects/amulet-computational-jewelry-mhealth">Amulet: Computational Jewelry</a></li>
 <li class="leaf menu-mlid-986"><a href="/research/projects/approximate-nearest-neighbour-searching">Approximate Nearest Neighbour Searching</a></li>
 <li class="leaf menu-mlid-1041"><a href="/research/projects/digital-image-forensics">Digital Image Forensics</a></li>
 <li class="leaf menu-mlid-991"><a href="/research/projects/fg">FG</a></li>
@@ -370,7 +377,7 @@
 <li class="leaf menu-mlid-1031"><a href="/research/projects/exact-optimal-trajectories-robots">Trajectories for Robots</a></li>
 <li class="leaf menu-mlid-1006"><a href="/research/projects/trusted-hardware">Trusted Hardware</a></li>
 <li class="leaf menu-mlid-996"><a href="/research/projects/trustworthy-health-and-wellness">Trustworthy Health and Wellness</a></li>
-<li class="last leaf active-trail active menu-mlid-971"><a href="/research/projects/visual-learning" class="active-trail active">Visual Learning</a></li>
+<li class="last leaf menu-mlid-971"><a href="/research/projects/visual-learning">Visual Learning</a></li>
 </ul></li>
 <li class="last leaf menu-mlid-1061"><a href="http://www.cs.dartmouth.edu/~csrs/" title="Computer Science Research Symposium">Annual Research Symposium</a></li>
 </ul></div>
@@ -516,7 +523,7 @@ _gaq.push(['t2._trackPageview']);(function() {var ga = document.createElement("s
 <script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/scripts.js?mzmp4d"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"MAl58iCzRbFnvBw45Vyl1upd5i7DeD7Tb7myxJsvNHA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"-fR90XFyZF7repEZ77MXs5LyWZYdhNwCSzCX61uYfxg","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
 //--><!]]>
 </script>
 </body>

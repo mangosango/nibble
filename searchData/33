@@ -1,3 +1,5 @@
+http://www.cs.dartmouth.edu/news-events/algorithm-ninth-century-term-21st-century-computing
+2
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -6,15 +8,15 @@
 <!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/526" />
+<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/321" />
 <link rel="shortcut icon" href="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="canonical" href="http://web.cs.dartmouth.edu/research/projects/visual-learning" />
+<link rel="canonical" href="http://web.cs.dartmouth.edu/news-events/algorithm-ninth-century-term-21st-century-computing" />
 <meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<meta content="Visual Learning" about="/research/projects/visual-learning" property="dc:title" />
-<meta about="/research/projects/visual-learning" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<meta content="Algorithm: A Ninth-Century Term for 21st-Century Computing" about="/news-events/algorithm-ninth-century-term-21st-century-computing" property="dc:title" />
+<meta about="/news-events/algorithm-ninth-century-term-21st-century-computing" property="sioc:num_replies" content="0" datatype="xsd:integer" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no">  
-  <title>Visual Learning | Department of Computer Science</title>
+  <title>Algorithm: A Ninth-Century Term for 21st-Century Computing | Department of Computer Science</title>
   <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_mxbvRAV0_YoXwGCXbsQzCkegc1pXHICzfd8PPQD9YE4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_eNCzbFC38J4lNPTkie9TueRTpfkpBmXxfgOsIjZjPMk.css" media="all" />
@@ -34,7 +36,7 @@
   <script src="/sites/all/themes/dartmouth_master/js/vendor/respond.min.js"></script>
 	
 </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-526 node-type-page" >
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-321 node-type-article" >
 
 <!--[if lt IE 8]>
 <p class="chromeframe">You are viewing this site in <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-9">compatibility view</a>, or an Internet Explorer version lower than 8. Please either upgrade your browser, or take your browser out of compatibility view to better experience this site.</p>
@@ -306,42 +308,59 @@
 			  			  				<div class="nine push-three column">
 			  	
 				  				  
-        			        			<h1 class="title" id="page-title">Visual Learning</h1>        			        			
+        			        			<h1 class="title" id="page-title">Algorithm: A Ninth-Century Term for 21st-Century Computing</h1>        			        			
 					<div class="tabs"></div>       	 			        			        													
-        			    <div id="node-526" class="node node-page clearfix row dept-landing-container" about="/research/projects/visual-learning" typeof="foaf:Document">
+        			    <div id="node-321" class="node node-article node-promoted clearfix" about="/news-events/algorithm-ninth-century-term-21st-century-computing" typeof="sioc:Item foaf:Document">
+<article class="article-main">
 
   
+      
+      <h4 class="date-author submitted">
+      <span property="dc:date dc:created" content="2013-08-28T14:16:36-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Wed, 08/28/2013 - 14:16</span>    </h4>
   
   <div class="content">
-            
     <div class="field-collection-container clearfix">
 
 
-</div>    
-    <div class="field-collection-container clearfix">
+<section class="feature-gallery">
+<ul class="field field-name-field-article-slideshow field-type-field-collection field-label-hidden "  role="list">
+          	  	        <li class="feature-gallery-slide" role="listitem" aria-labelledby="slide0">
+        <article>
+          <div class="field field-name-field-article-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/810_Tom_Cormen_0.jpg" width="810" height="455" /></div></div></div>          <div class="caption">
+		    <div class="field field-name-field-article-caption field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Thomas Cormen is a professor and chair of the Department of Computer Science, and a specialist on the subject of algorithms. (Photo by Eli Burakian '00)</p></div></div></div>		  </div>
+        </article>
+      </li>
+          </ul>
+<nav class="prev-next">
+  <a class="prev" aria-hidden="true"><span class="hide-txt">Previous</span></a>
+  <a class="next" aria-hidden="true"><span class="hide-txt">Next</span></a>
+</nav>
+</section>
 
-<div class="field field-name-field-section field-type-field-collection field-label-hidden">
-    <div class="field-items">
-                    
-              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/641" typeof="">
-  <div class="content">
-    
-	<h3 class="field-item even">Prof. Lorenzo Torresani</h3>
-<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><img height="205" width="205" alt="Visual Learning Logo" title="Visual Learning Logo" class="media-element file-default" typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/shapeimage_1.png" /></p>
-<p>The Visual Learning Group researches methods to acquire models of the real-world from visual data, such as images, videos, and motion sequences. Most of this research lies at the boundary between computer vision, machine learning and computer animation. Projects include learning image representations for visual recognition - the problem of determining what is where in a picture - but also extracting models of human movement from video and motion capture data.</p>
-<p><a href="http://vlg.cs.dartmouth.edu/">Read more...</a></p>
+</div><div class="field field-name-field-article-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"> <p><em>Joseph Blumberg</em></p>
+<p>Computer scientist <a href="/people/thomas-h-cormen">Thomas Cormen</a> still remembers that he “only got an A minus” in his algorithms course at Princeton. This minor blemish on his academic record didn’t stop Cormen, a New Yorker, from graduating summa cum laude and Phi Beta Kappa. Curiously, it turns out that much of his professional life has revolved around the science of algorithms.</p>
+<p>Whether we know it or not, our lives revolve around algorithms. Much of what we do today depends on computers, and algorithms are the step-by-step sets of instructions a computer must follow in order to do its job.</p>
+<p>“Algorithms are at the core of all things digital,” says Cormen, a professor and chair of Dartmouth’s <a href="http://cs.dartmouth.edu">Department of Computer Science</a>. “They run on your laptop, your smartphone, your GPS device, and in systems imbedded in your car, your microwave oven—everywhere.”</p>
+<p>While algorithms are everywhere, the word does not roll smoothly off the tongue. It is a word deeply rooted in history, a corruption of the name <a href="http://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_M%C5%ABs%C4%81_al-Khw%C4%81rizm%C4%AB">al-Khwarizmi</a>, a ninth-century Persian mathematician, astronomer, and geographer renowned for his treatise on algebra—another word attributed to him.</p>
+<p>Cormen’s own history of involvement with algorithms continued in his graduate studies at the Massachusetts Institute of Technology (MIT). He was a teaching assistant for his research adviser, Professor of Computer Science and Engineering Charles Leiserson. Cormen was assigned the task of writing up Leiserson’s lecture notes for the undergraduate algorithms class and then distributing them to the students. Cormen recalls, “At the end of the term, Leiserson said to me, ‘You did a great job. How about we turn these into a book?’ ”</p>
+<p>In the tradition of “no good deed goes unpunished,” Cormen took on the job and for the next three-and-a-half years worked with Leiserson on what turned out to be <a href="http://mitpress.mit.edu/books/introduction-algorithms"><i>Introduction to Algorithms</i></a>, the 1,050-page classic textbook on the subject, now in its third edition. <a href="http://en.wikipedia.org/wiki/Turing_Award">Turing Award</a> winner Ronald Rivest of MIT was a co-author on the first edition and Clifford Stein of Columbia University joined the team for the second edition.</p>
+<p>In March, 2013, Cormen published his latest work, <a href="http://mitpress.mit.edu/books/algorithms-unlocked"><i>Algorithms Unlocked</i></a><i>. </i>“I wanted to write something shorter, a book that someone with really minimal background in computer science could pick up and understand,” says Cormen. He hoped that readers of the new book would be motivated to explore the big book—the behemoth <i>Introduction to Algorithms</i>. “What I am finding, at least when I look at reviews online, is that it seems to be the other way around. People have read <i>Introduction to Algorithms</i>, and then they are reading this to see what they missed.”</p>
+<p>Cormen has taught Dartmouth’s introductory course in computer science for 19 of the 21 years he’s been at the College. “I love teaching this course because I really like getting students hooked on computer science,” he says. “I love it when there is a student who was not planning to study computer science takes this course and it changes their life.”</p>
+<p>Among his pedagogical pursuits, Cormen teaches a graduate course on how to write papers and give presentations. Having served as the director of the Dartmouth College Writing Program (now <a href="http://dartmouth.edu/writing-speech/">the Institute for Writing and Rhetoric</a>) from 2004-2008, he brings his communication skills to the more arcane precinct of computer science.</p>
+<p>“I take examples that you would find in the book <i>Style: The Basics of Clarity and Grace, </i>and modify them to use computer science terms. That book starts out with a bad sentence, diagnoses it, shows you how to fix it, and make it a much better sentence,” Cormen explains. After substituting computer science nouns and verbs in the “bad sentence,” he says, “it looks just like the stuff we read in academic journals—almost incomprehensible—so this gives the students good motivation to improve their writing.” The course also includes a unit on presentations—how to give talks.</p>
+<p>As department chair, Cormen has encouraged the recruitment of more women into the field. Cormen has also been a strong supporter of Women in Computer Science, a club recognized by the Dartmouth’s Council on Student Organizations.</p>
+<p>Cormen is in the first year of his second three-year term as department chair and, while his administrative chores have cut into his research time, he says accomplishments in other areas tend to balance out his paucity of new research papers.</p>
+<p>“With research, what you are hoping to do is make an impact on the world. What I am hoping to do as an administrator is make more of an impact on Dartmouth by doing everything I can to help this department,” he says.</p>
+<p>Cormen has initiated a lot of renovations in Sudikoff Laboratory “to try to make the building better for research and for teaching. We are renovating two of the undergraduate labs this summer and we’ve done most of the seminar rooms, replacing projectors by 55-inch flat-screen TVs for presentations.</p>
+<p>“My approach as a chair is to get the resources that our faculty and students need, and deploy those resources to enable them to do their work.”</p>
 <p> </p>
  </div></div></div>  </div>
-</div>
-</div><span class="marker"></span></section>
-            </div>
-</div>
-</div>                
-  </div>
-
   
-  
-  
+  <footer class="article-footer">
+      	<div>
+Tags: <a href="/tags/faculty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">faculty</a>, <a href="/tags/faculty-research" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">faculty research</a>, <a href="/tags/thomas-cormen" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Thomas Cormen</a></div>
+          </footer>
+</article>
 </div>
         			
 				</div>
@@ -350,31 +369,61 @@
 								  				
 				  <div class="three pull-nine column sidebar">
 				    <section class="nav-side">
-				        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
-  <ul class="menu"><li class="first leaf menu-mlid-866"><a href="/recent-publications" title="">Faculty Publications</a></li>
-<li class="leaf menu-mlid-906"><a href="/research/faculty-research-areas" title="Faculty research areas">Faculty Research Areas</a></li>
-<li class="leaf menu-mlid-821"><a href="/research/labs" title="Research labs">Labs</a></li>
-<li class="expanded active-trail menu-mlid-822"><a href="/research/projects" title="Research projects" class="active-trail">Projects</a><ul class="menu"><li class="first leaf menu-mlid-1016"><a href="/research/projects/amulet-computational-jewelry-mhealth">Amulet: Computational Jewelry</a></li>
-<li class="leaf menu-mlid-986"><a href="/research/projects/approximate-nearest-neighbour-searching">Approximate Nearest Neighbour Searching</a></li>
-<li class="leaf menu-mlid-1041"><a href="/research/projects/digital-image-forensics">Digital Image Forensics</a></li>
-<li class="leaf menu-mlid-991"><a href="/research/projects/fg">FG</a></li>
-<li class="leaf menu-mlid-976"><a href="/research/projects/family-based-protein-design">Family-Based Protein Design</a></li>
-<li class="leaf menu-mlid-1001"><a href="/research/projects/green-lite-dartmouth">Green Lite Dartmouth</a></li>
-<li class="leaf menu-mlid-1011"><a href="/research/projects/mcmc-and-theory-computing">MCMC and the Theory of Computing</a></li>
-<li class="leaf menu-mlid-1021"><a href="/research/projects/multimodal-protein-structure">Multimodal Protein Structure</a></li>
-<li class="leaf menu-mlid-1036"><a href="/research/projects/price-and-allocation-algorithms-markets-and-networks">Price and Allocation Algorithms</a></li>
-<li class="leaf menu-mlid-1046"><a href="/research/projects/reconstructing-ancient-egyptian-tombs">Reconstructing Ancient Egyptian Tombs</a></li>
-<li class="leaf menu-mlid-1026"><a href="/research/projects/robotic-origami-folding">Robotic Origami Folding</a></li>
-<li class="leaf menu-mlid-981"><a href="/research/projects/smartphone-sensing">Smartphone Sensing</a></li>
-<li class="leaf menu-mlid-1051"><a href="/research/projects/towards-effective-pki">Towards Effective PKI</a></li>
-<li class="leaf menu-mlid-1031"><a href="/research/projects/exact-optimal-trajectories-robots">Trajectories for Robots</a></li>
-<li class="leaf menu-mlid-1006"><a href="/research/projects/trusted-hardware">Trusted Hardware</a></li>
-<li class="leaf menu-mlid-996"><a href="/research/projects/trustworthy-health-and-wellness">Trustworthy Health and Wellness</a></li>
-<li class="last leaf active-trail active menu-mlid-971"><a href="/research/projects/visual-learning" class="active-trail active">Visual Learning</a></li>
-</ul></li>
-<li class="last leaf menu-mlid-1061"><a href="http://www.cs.dartmouth.edu/~csrs/" title="Computer Science Research Symposium">Annual Research Symposium</a></li>
-</ul></div>
-					</section>
+				        <div class="view view-image-sidebar-article view-id-image_sidebar_article view-display-id-block view-dom-id-17bcb9efad288b7bf7ec2fe2836ba287">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+  
+    
+    
+    
+    
+  
+<section class="widget promo">
+  <a href="/people/thomas-h-cormen">
+    <div class="photo">
+      <div class="field-content"><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/sidebar_promo/public/248_Cormen_profile.jpg?itok=sKfMA7o3" width="248" height="139" /></div>	 </div>
+	 <article>
+	   <small><div class="field-content">Faculty Profile</div></small>
+		 <h5><div class="field-content">Thomas H. Cormen</div><span class="arrow"></span></h5>
+	 </article>
+  </a>
+</section>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-link-slideshow-sidebar-article view-id-link_slideshow_sidebar_article view-display-id-block view-dom-id-46292394d75a7b3bbc5ad5503e6e9dc3">
+        
+  
+  
+      <div class="view-content">
+          <section class="widget slideshow">
+  <ul>                <li role="listitem" class="widget-slide "><h5>  
+  <div class="views-field views-field-field-slideshow-promo-link">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-article-slide-promo-link">        <div class="field-content"><a href="http://dartmouth.edu/writing-speech">Institute for Writing and Rhetoric</a></div>  </div></h5></li>
+                      <li role="listitem" class="widget-slide "><h5>  
+  <div class="views-field views-field-field-slideshow-promo-link">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-article-slide-promo-link">        <div class="field-content"><a href="http://mitpress.mit.edu/books/introduction-algorithms">Introduction to Algorithms</a></div>  </div></h5></li>
+                      <li role="listitem" class="widget-slide "><h5>  
+  <div class="views-field views-field-field-slideshow-promo-link">        <div class="field-content"></div>  </div>  
+  <div class="views-field views-field-field-article-slide-promo-link">        <div class="field-content"><a href="http://mitpress.mit.edu/books/algorithms-unlocked">Algorithms Unlocked</a></div>  </div></h5></li>
+            </ul>  <div class="slideshow-pager" aria-hidden="true"></div>
+  </section>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>					</section>
 				  </div>
 								
 							</div>
@@ -516,7 +565,7 @@ _gaq.push(['t2._trackPageview']);(function() {var ga = document.createElement("s
 <script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/scripts.js?mzmp4d"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"MAl58iCzRbFnvBw45Vyl1upd5i7DeD7Tb7myxJsvNHA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"vMO5WVvbVftq5vu3OY4fu9-1ioJfdlMpe7w6w7otUBo","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
 //--><!]]>
 </script>
 </body>

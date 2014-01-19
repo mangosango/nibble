@@ -1,3 +1,5 @@
+http://www.cs.dartmouth.edu/undergraduate/major
+2
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -6,15 +8,15 @@
 <!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/526" />
+<link rel="shortlink" href="http://web.cs.dartmouth.edu/node/141" />
 <link rel="shortcut icon" href="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="canonical" href="http://web.cs.dartmouth.edu/research/projects/visual-learning" />
+<link rel="canonical" href="http://web.cs.dartmouth.edu/undergraduate/major" />
 <meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<meta content="Visual Learning" about="/research/projects/visual-learning" property="dc:title" />
-<meta about="/research/projects/visual-learning" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<meta content="The Major" about="/undergraduate/major" property="dc:title" />
+<meta about="/undergraduate/major" property="sioc:num_replies" content="0" datatype="xsd:integer" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no">  
-  <title>Visual Learning | Department of Computer Science</title>
+  <title>The Major | Department of Computer Science</title>
   <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_mxbvRAV0_YoXwGCXbsQzCkegc1pXHICzfd8PPQD9YE4.css" media="all" />
 <link type="text/css" rel="stylesheet" href="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/css/css_eNCzbFC38J4lNPTkie9TueRTpfkpBmXxfgOsIjZjPMk.css" media="all" />
@@ -34,7 +36,7 @@
   <script src="/sites/all/themes/dartmouth_master/js/vendor/respond.min.js"></script>
 	
 </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-526 node-type-page" >
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-141 node-type-page" >
 
 <!--[if lt IE 8]>
 <p class="chromeframe">You are viewing this site in <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-9">compatibility view</a>, or an Internet Explorer version lower than 8. Please either upgrade your browser, or take your browser out of compatibility view to better experience this site.</p>
@@ -306,14 +308,16 @@
 			  			  				<div class="nine push-three column">
 			  	
 				  				  
-        			        			<h1 class="title" id="page-title">Visual Learning</h1>        			        			
+        			        			<h1 class="title" id="page-title">The Major</h1>        			        			
 					<div class="tabs"></div>       	 			        			        													
-        			    <div id="node-526" class="node node-page clearfix row dept-landing-container" about="/research/projects/visual-learning" typeof="foaf:Document">
+        			    <div id="node-141" class="node node-page clearfix row dept-landing-container" about="/undergraduate/major" typeof="foaf:Document">
 
   
   
   <div class="content">
-            
+            <section class="intro">
+      <div class="field field-name-field-intro field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p class="sc-BodyText">The Computer Science major is comprehensive, from theory to applications to system-building. We teach not just how to program, but how to approach problems computationally, and how to devise appropriate solutions. Undergraduates majoring in Computer Science will have opportunities to participate with faculty in activities outside formal coursework. These activities include assisting in courses, writing a thesis or doing a project under the guidance of a faculty member, and assisting a faculty member in research or in a programming project.</p></div></div></div>    </section>
+        
     <div class="field-collection-container clearfix">
 
 
@@ -323,18 +327,69 @@
 <div class="field field-name-field-section field-type-field-collection field-label-hidden">
     <div class="field-items">
                     
-              <section class="dept-section field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/641" typeof="">
+                        <div class="row">
+          <div class="six column">
+                <article class="dept-landing-module field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/3" typeof="">
   <div class="content">
     
-	<h3 class="field-item even">Prof. Lorenzo Torresani</h3>
-<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p><img height="205" width="205" alt="Visual Learning Logo" title="Visual Learning Logo" class="media-element file-default" typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/shapeimage_1.png" /></p>
-<p>The Visual Learning Group researches methods to acquire models of the real-world from visual data, such as images, videos, and motion sequences. Most of this research lies at the boundary between computer vision, machine learning and computer animation. Projects include learning image representations for visual recognition - the problem of determining what is where in a picture - but also extracting models of human movement from video and motion capture data.</p>
-<p><a href="http://vlg.cs.dartmouth.edu/">Read more...</a></p>
-<p> </p>
+	<h2 class="field-item even">Major</h2>
+
+	<h3 class="field-item even">Requirements</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>Students wishing to devote two or more courses to the study of Computer Science should begin with <a class="sc-courselink" href="http://dartmouth.smartcatalogiq.com/en/2013/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-1">COSC 1</a> and <a class="sc-courselink" href="http://dartmouth.smartcatalogiq.com/en/2013/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-10">COSC 10</a>. </p>
+<p>More detailed information about the Computer Science major requirements can be found <a href="http://dartmouth.smartcatalogiq.com/en/2013/orc/Departments-Programs-Undergraduate/Computer-Science">in the SmartCatalog</a>.</p>
  </div></div></div>  </div>
 </div>
-</div><span class="marker"></span></section>
-            </div>
+</div><span class="marker"></span></article>
+                        
+                              
+                      <article class="dept-landing-module field-item odd"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/1" typeof="">
+  <div class="content">
+    
+	<h2 class="field-item even">Course Categorization</h2>
+
+	<h3 class="field-item even">Undergraduate Courses</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>Computer Science undergraduate courses are numbered as follows:</p>
+<ul><li>1–19: Introductory and non-major courses</li>
+<li>20–29: Digital arts</li>
+<li>30–49: Theory and algorithms</li>
+<li>50–69: Systems and hardware</li>
+<li>70–89: Applied computer science</li>
+<li>90–99: Reading and culminating experience</li>
+</ul></div></div></div>  </div>
+</div>
+</div><span class="marker"></span></article>
+                  </div>
+          <div class="six column">
+                        
+                              
+                      <article class="dept-landing-module field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/4" typeof="">
+  <div class="content">
+    
+	<h2 class="field-item even">Prerequisites</h2>
+
+	<h3 class="field-item even">COSC 1 - Introduction to Programming and Computation</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>The first prerequisite course for the Computer Science major is Computer Science 1. </p>
+<p>This course introduces computational concepts that are fundamental to computer science and are useful for the sciences, social sciences, engineering, and digital arts. Students will write their own interactive programs to analyze data, process text, draw graphics, manipulate images, and simulate physical systems. Problem decomposition, program efficiency, and good programming style are emphasized throughout the course. No prior programming experience is assumed.</p>
+ </div></div></div>  </div>
+</div>
+</div><span class="marker"></span></article>
+                        
+                              
+                      <article class="dept-landing-module field-item odd"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-section clearfix" about="/field-collection/field-section/5" typeof="">
+  <div class="content">
+    
+	<h2 class="field-item even">Prerequisites</h2>
+
+	<h3 class="field-item even">COSC 10 - Problem Solving via Object-Oriented Programming</h3>
+<div class="field field-name-field-section-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>The second prerequisite course for the Comptuer Science major is Computer Science 10. </p>
+<p>Motivated by problems that arise in a variety of disciplines, this course examines concepts and develops skills in solving computational problems. Topics covered include abstraction (how to hide details), modularity (how to decompose problems), data structures (how to efficiently organize data), and algorithms (procedures for solving problems). Laboratory assignments are implemented using object-oriented programming techniques.</p>
+ </div></div></div>  </div>
+</div>
+</div><span class="marker"></span></article>
+                          </div>
+          </div>
+                
+                    </div>
 </div>
 </div>                
   </div>
@@ -351,29 +406,41 @@
 				  <div class="three pull-nine column sidebar">
 				    <section class="nav-side">
 				        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
-  <ul class="menu"><li class="first leaf menu-mlid-866"><a href="/recent-publications" title="">Faculty Publications</a></li>
-<li class="leaf menu-mlid-906"><a href="/research/faculty-research-areas" title="Faculty research areas">Faculty Research Areas</a></li>
-<li class="leaf menu-mlid-821"><a href="/research/labs" title="Research labs">Labs</a></li>
-<li class="expanded active-trail menu-mlid-822"><a href="/research/projects" title="Research projects" class="active-trail">Projects</a><ul class="menu"><li class="first leaf menu-mlid-1016"><a href="/research/projects/amulet-computational-jewelry-mhealth">Amulet: Computational Jewelry</a></li>
-<li class="leaf menu-mlid-986"><a href="/research/projects/approximate-nearest-neighbour-searching">Approximate Nearest Neighbour Searching</a></li>
-<li class="leaf menu-mlid-1041"><a href="/research/projects/digital-image-forensics">Digital Image Forensics</a></li>
-<li class="leaf menu-mlid-991"><a href="/research/projects/fg">FG</a></li>
-<li class="leaf menu-mlid-976"><a href="/research/projects/family-based-protein-design">Family-Based Protein Design</a></li>
-<li class="leaf menu-mlid-1001"><a href="/research/projects/green-lite-dartmouth">Green Lite Dartmouth</a></li>
-<li class="leaf menu-mlid-1011"><a href="/research/projects/mcmc-and-theory-computing">MCMC and the Theory of Computing</a></li>
-<li class="leaf menu-mlid-1021"><a href="/research/projects/multimodal-protein-structure">Multimodal Protein Structure</a></li>
-<li class="leaf menu-mlid-1036"><a href="/research/projects/price-and-allocation-algorithms-markets-and-networks">Price and Allocation Algorithms</a></li>
-<li class="leaf menu-mlid-1046"><a href="/research/projects/reconstructing-ancient-egyptian-tombs">Reconstructing Ancient Egyptian Tombs</a></li>
-<li class="leaf menu-mlid-1026"><a href="/research/projects/robotic-origami-folding">Robotic Origami Folding</a></li>
-<li class="leaf menu-mlid-981"><a href="/research/projects/smartphone-sensing">Smartphone Sensing</a></li>
-<li class="leaf menu-mlid-1051"><a href="/research/projects/towards-effective-pki">Towards Effective PKI</a></li>
-<li class="leaf menu-mlid-1031"><a href="/research/projects/exact-optimal-trajectories-robots">Trajectories for Robots</a></li>
-<li class="leaf menu-mlid-1006"><a href="/research/projects/trusted-hardware">Trusted Hardware</a></li>
-<li class="leaf menu-mlid-996"><a href="/research/projects/trustworthy-health-and-wellness">Trustworthy Health and Wellness</a></li>
-<li class="last leaf active-trail active menu-mlid-971"><a href="/research/projects/visual-learning" class="active-trail active">Visual Learning</a></li>
+  <ul class="menu"><li class="first leaf menu-mlid-810"><a href="/undergraduate/what-you-will-learn" title="Learning outcomes">What You Will Learn</a></li>
+<li class="expanded active-trail active menu-mlid-809"><a href="/undergraduate/major" title="The Major" class="active-trail active">The Major</a><ul class="menu"><li class="first last leaf menu-mlid-836"><a href="/undergraduate/major-redesign/advice-for-majors" title="Advice for majors considering graduate school.">Advice for Majors</a></li>
 </ul></li>
-<li class="last leaf menu-mlid-1061"><a href="http://www.cs.dartmouth.edu/~csrs/" title="Computer Science Research Symposium">Annual Research Symposium</a></li>
+<li class="leaf menu-mlid-812"><a href="/undergraduate/digital-arts" title="Information about digital arts">Digital Arts Minor</a></li>
+<li class="leaf menu-mlid-813"><a href="/undergraduate/honors-program" title="About the honors program">Honors Program</a></li>
+<li class="collapsed menu-mlid-816"><a href="/undergraduate/undergraduate-courses" title="Overview of Undergraduate courses">Courses</a></li>
+<li class="collapsed menu-mlid-814"><a href="/undergraduate/john-g-kemeny-computing-prize" title="Awards for computing projects">Prizes</a></li>
+<li class="last leaf menu-mlid-2386"><a href="/undergraduate/cs-jobs-and-internships">CS Jobs and Internships</a></li>
 </ul></div>
+        
+  
+  
+          <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+  
+    
+    
+    
+  
+<section class="widget promo">
+  <a href="/alumni-stories">
+    <div class="photo">
+      <div><img typeof="foaf:Image" src="http://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/sidebar_promo/public/248_GreenCrossPath.jpg?itok=QXaBQvQN" width="248" height="139" /></div>	 </div>
+	 <article>
+	   <small><div class="field-content">Alumni</div></small>
+		 <h5><div class="field-content">Tell Us Your News</div><span class="arrow"></span></h5>
+	 </article>
+  </a>
+</section>  </div>
+  
+  
+  
+  
+  
+  
 					</section>
 				  </div>
 								
@@ -516,7 +583,7 @@ _gaq.push(['t2._trackPageview']);(function() {var ga = document.createElement("s
 <script type="text/javascript" src="http://web.cs.dartmouth.edu/sites/all/themes/dartmouth_master/js/scripts.js?mzmp4d"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"MAl58iCzRbFnvBw45Vyl1upd5i7DeD7Tb7myxJsvNHA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartmouth_dept_computerscience","theme_token":"FXZ0zrybBGpZPAH7_GpqyPPYNSitskfvtCGl9ezZcI4","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery-1.9.0.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.ba-dotimeout.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.touchSwipe.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.cycle2.min.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.fittext.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/jquery.mobile.vmouse.js":1,"sites\/all\/themes\/dartmouth_master\/js\/vendor\/responsive-tables.js":1,"sites\/all\/themes\/dartmouth_master\/js\/faculty-listing.js":1,"sites\/all\/themes\/dartmouth_master\/js\/news-events.js":1,"sites\/all\/themes\/dartmouth_master\/js\/universal.js":1,"sites\/all\/themes\/dartmouth_master\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/custom\/dart_events\/theme\/dart_events.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/dartmouth_master\/css\/base.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-global-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-universal-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/layout-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept.css":1,"sites\/all\/themes\/dartmouth_master\/css\/content-dept-responsive.css":1,"sites\/all\/themes\/dartmouth_master\/css\/dartmouth-overrides.css":1,"sites\/all\/themes\/dartmouth_dept\/css\/dartmouth-dept-overrides.css":1,"sites\/cs.drupal-prod.dartmouth.edu\/themes\/dartmouth_dept_computerscience\/css\/styles.css":1,"http:\/\/web.cs.dartmouth.edu\/sites\/all\/themes\/dartmouth_dept\/css\/ie.css":1}},"gss":{"key":"017180522165740084141:v1wbqwoih_k"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
 //--><!]]>
 </script>
 </body>

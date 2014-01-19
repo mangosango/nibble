@@ -80,9 +80,8 @@ void initLists() {
 */
 
 char *getPage(char* url, int depth, char* path) {
-	
-	int *i_ptr = (int *)calloc(1, sizeof(int)); // static int that counts the current file number to be saved by wget
-	*i_ptr = 1;
+
+	static int i = 1;
 	
 	char* PTR_wgetCom = (char *)calloc(1, SIZE_OF_WGET_COM);
 	
@@ -162,7 +161,7 @@ char *getPage(char* url, int depth, char* path) {
 		strncat(buffer, "\0", sizeof(char) * size + 1);
 		
 	// increment temp file number
-	*i_ptr++;
+	i++;
 
 	// return the buffer (html)
 	return buffer;
@@ -495,7 +494,7 @@ int main(int argc, char *argv[]) {
 		/* SET THE CURRENT URL AS VISITED */
 		setURLasVisited(URLToBeVisited);
 	
-		printf("VISITNG URL... %s\n", URLToBeVisited);
+		printf("VISITING URL... %s\n", URLToBeVisited);
 		
 		/* SLEEP FOR PREDETERMINED INTERVAL */
 		//sleep(INTERVAL_PER_FETCH);
