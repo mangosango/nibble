@@ -12,9 +12,9 @@
   [TARGET DIRECTORY]. The name of the file will start a 1 for the  [SEED URL] 
   and be incremented for each subsequent HTML webpage crawled. 
 
-  Each file (e.g., 10) will include the URL associated with the saved webpage and the
+  Each file will include the URL associated with the saved webpage and the
   depth of search in the file. The URL will be on the first line of the file 
-  and the depth on the second line. The HTML will for the webpage 
+  and the depth on the second line. The HTML for the webpage 
   will start on the third line.
 
 */
@@ -80,7 +80,9 @@ void initLists() {
 */
 
 char *getPage(char* url, int depth, char* path) {
-	static int i;		// static int that counts the current file number to be saved by wget
+	
+	int *i_ptr = (int *)calloc(1, sizeof(int)); // static int that counts the current file number to be saved by wget
+	*i_ptr = 1;
 	
 	char* PTR_wgetCom = (char *)calloc(1, SIZE_OF_WGET_COM);
 	
@@ -160,7 +162,7 @@ char *getPage(char* url, int depth, char* path) {
 		strncat(buffer, "\0", sizeof(char) * size + 1);
 		
 	// increment temp file number
-	i++;
+	*i_ptr++;
 
 	// return the buffer (html)
 	return buffer;
