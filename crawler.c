@@ -462,24 +462,7 @@ int main(int argc, char *argv[]) {
 	/* INITIALIZE THE DICTIONARY (dict) */
 	initLists();
 
-	printf("VISITING URL... %s\n", URLToBeVisited);
-	
-	/* GET HTML PAGE, SAVE TO TEMP FILE */ 
-	char* page = getPage(URLToBeVisited, 0, argv[2]);
-	if(page == NULL) { perror("Can't crawl source URL\n"); }
-	
-	/* EXTRACT URLS + UPDATE THE DNODES (ADD URLS) */
-	updateListLinkToBeVisited((extractURLs(page, argv[1])), currentDepth + 1);
-	
-	// FREE ZE PAGE (TAG AND RELASE TO THE WILD)
-	free(page);
-	
-	/* SET THE CURRENT URL AS VISITED */
-	setURLasVisited(URLToBeVisited);
-	
-	/* UPDATE THE URL TO BE VISITED AND THE DEPTH */
-	
-	while ((URLToBeVisited = getAddressFromTheLinksToBeVisited(&currentDepth)) != NULL) {
+	do {
 
 		if (currentDepth > crawlDepth) {
 			setURLasVisited(URLToBeVisited);
@@ -491,6 +474,7 @@ int main(int argc, char *argv[]) {
 		page = getPage(URLToBeVisited, currentDepth, argv[2]);
 		if(page == NULL) { // if the page can't be opened, set it as visited and move on
 			setURLasVisited(URLToBeVisited);
+			perror("Can't crawl source URL\n");
 			continue;
 		}
 		
@@ -507,7 +491,7 @@ int main(int argc, char *argv[]) {
 		
 		/* SLEEP FOR PREDETERMINED INTERVAL */
 		//sleep(INTERVAL_PER_FETCH);
-	}
+	} while ((URLToBeVisited = getAddressFromTheLinksToBeVisited(&currentDepth)) != NULL)
 	
 	/* CLEAN UP */
 	free(URLToBeVisited);
