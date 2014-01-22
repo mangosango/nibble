@@ -11,3 +11,4 @@ clean:
 	rm -f *#
 	rm -f ./prs
 	rm -f *.o
+	rm -rf ./searchData/*
