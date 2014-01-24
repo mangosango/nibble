@@ -21,7 +21,7 @@
 // You could remove this limtation but not before testing.
 // The danger is a site may block you
 
-#define URL_PREFIX "http://www.cs.dartmouth.edu"
+#define URL_PREFIX ""
 
 // Set some magic numbers. These are large values.
 

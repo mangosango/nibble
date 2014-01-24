@@ -452,7 +452,6 @@ int main(int argc, char *argv[]) {
 	if (argc != 4) { printf("Error! Usage: [SEED_URL] [TARGET_DIRECTORY] [CRAWLING_DEPTH]\n"); return 1; }
 
 	int is_in_domain = strncmp(URL_PREFIX, argv[1], strlen(URL_PREFIX));
-
 	if (is_in_domain != 0) { printf("Error! %s is not in domain %s\n", argv[1], URL_PREFIX); return 1; }
 	
 	// check each argument
