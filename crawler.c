@@ -450,13 +450,12 @@ int main(int argc, char *argv[]) {
 	/* CHECK ARGUMENTS! */
 	// check the number of args
 	if (argc != 4) { printf("Error! Usage: [SEED_URL] [TARGET_DIRECTORY] [CRAWLING_DEPTH]\n"); return 1; }
-
-	int is_in_domain = strncmp(URL_PREFIX, argv[1], strlen(URL_PREFIX));
-	if (is_in_domain != 0) { printf("Error! %s is not in domain %s\n", argv[1], URL_PREFIX); return 1; }
 	
 	// check each argument
 	if (isDirectory(argv[2]) != 0) { printf("Error! %s is an invalid directory\n", argv[2]); return 1; }
 	if (crawlDepth > MAXDEPTH) { printf("Error! The crawing depth you entered (%d) is greater than 4\n", crawlDepth); return 1; }
+	int is_in_domain = strncmp(URL_PREFIX, argv[1], strlen(URL_PREFIX));
+	if (is_in_domain != 0) { printf("Error! %s is not in domain %s\n", argv[1], URL_PREFIX); return 1; }
 
 	/* INITIALIZE THE DICTIONARY (dict) */
 	initLists();
