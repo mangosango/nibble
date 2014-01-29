@@ -461,7 +461,11 @@ int main(int argc, char *argv[]) {
 	initLists();
 	char* page;
 
+	char *directory = argv[2];
+
 	do {
+
+		printf("VISITING URL... %s\n", URLToBeVisited);
 
 		if (currentDepth > crawlDepth) {
 			setURLasVisited(URLToBeVisited);
@@ -470,7 +474,7 @@ int main(int argc, char *argv[]) {
 			
 		
 		/* GET HTML PAGE, SAVE TO TEMP FILE */ 
-		page = getPage(URLToBeVisited, currentDepth, argv[2]);
+		page = getPage(URLToBeVisited, currentDepth, directory);
 		if(page == NULL) { // if the page can't be opened, set it as visited and move on
 			setURLasVisited(URLToBeVisited);
 			perror("Can't crawl source URL\n");
@@ -485,8 +489,6 @@ int main(int argc, char *argv[]) {
 		
 		/* SET THE CURRENT URL AS VISITED */
 		setURLasVisited(URLToBeVisited);
-	
-		printf("VISITING URL... %s\n", URLToBeVisited);
 		
 		/* SLEEP FOR PREDETERMINED INTERVAL */
 		//sleep(INTERVAL_PER_FETCH);
