@@ -81,8 +81,10 @@ void initLists() {
 
 char *getPage(char* url, int depth, char* path) {
 
+	// this is the int that tracks depth
 	static int i = 1;
 	
+	// allocate memory for the wget command we will entered
 	char* PTR_wgetCom = (char *)calloc(1, SIZE_OF_WGET_COM);
 	
 	getcwd(path, 0);//store the current working dir in fullPath (automatic malloc).
@@ -118,7 +120,7 @@ char *getPage(char* url, int depth, char* path) {
 		//free(temp); // since we are done with the temp string, free up the memory =)
 		fclose(fp);
 
-	// write the depth/url and html to "path/i"
+	 // write the depth/url and html to "path/i"
 		FILE *writeFile;
 		
 		// filename to use for saving
